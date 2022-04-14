@@ -1,0 +1,4479 @@
+﻿ori_word,clean_word,cat_ids
+abandon*,abandon,"[125, 127, 130, 131, 137]"
+abdomen*,abdomen,"[146, 147]"
+abilit*,abilit,[355]
+able*,able,[355]
+abortion*,abortion,"[146, 148, 149]"
+about,about,"[1, 16, 17]"
+above,above,"[1, 17, 252, 250]"
+abrupt*,abrupt,"[253, 250]"
+abs,abs,"[146, 147]"
+absent*,absent,[354]
+absolute,absolute,"[131, 136]"
+absolutely,absolutely,"[1, 16, 131, 136, 462]"
+abstain*,abstain,"[131, 137]"
+abuse*,abuse,"[125, 127, 129]"
+abusi*,abusi,"[125, 127, 129]"
+academ*,academ,[354]
+accept,accept,"[125, 126, 131, 132]"
+accepta*,accepta,"[125, 126, 131, 132]"
+accepted,accepted,"[11, 13, 125, 126, 131, 132]"
+accepting,accepting,"[125, 126, 131, 132]"
+accepts,accepts,"[125, 126, 131, 132]"
+accomplish*,accomplish,"[354, 355]"
+account*,account,[358]
+accura*,accura,"[131, 136]"
+ace,ace,[355]
+ache*,ache,"[125, 127, 130, 146, 148]"
+achiev*,achiev,"[354, 355]"
+aching,aching,"[125, 127, 130, 146, 148]"
+acid*,acid,[140]
+acknowledg*,acknowledg,"[131, 132]"
+acne,acne,"[146, 148]"
+acquainta*,acquainta,"[121, 123]"
+acquir*,acquir,[355]
+acquisition*,acquisition,[355]
+acrid*,acrid,[140]
+across,across,"[1, 17, 252, 250]"
+act,act,"[250, 251]"
+action*,action,"[251, 250]"
+activat*,activat,"[131, 133]"
+active*,active,"[125, 126]"
+actor*,actor,[356]
+actress*,actress,[356]
+actually,actually,"[1, 16]"
+add,add,"[131, 138]"
+addict*,addict,"[146, 148]"
+addit*,addit,"[131, 138]"
+address,address,[357]
+adequa*,adequa,[355]
+adjust*,adjust,"[131, 132]"
+administrat*,administrat,[354]
+admir*,admir,"[125, 126]"
+admit,admit,"[11, 14, 121, 131, 132]"
+admits,admits,"[11, 14, 121, 131, 132]"
+admitted,admitted,"[11, 13, 121, 131, 132]"
+admitting,admitting,"[121, 131, 132]"
+ador*,ador,"[125, 126]"
+adult,adult,"[121, 124]"
+adults,adults,"[121, 124]"
+advanc*,advanc,"[251, 250, 355]"
+advantag*,advantag,"[125, 126, 355]"
+adventur*,adventur,"[125, 126]"
+advers*,advers,"[125, 127]"
+advertising,advertising,[354]
+advice,advice,[121]
+advil,advil,"[146, 148]"
+advis*,advis,"[121, 354]"
+aerobic*,aerobic,[356]
+affair*,affair,[121]
+affect,affect,"[131, 133]"
+affected,affected,"[11, 13, 131, 133]"
+affecting,affecting,"[131, 133]"
+affection*,affection,"[125, 126]"
+affects,affects,"[131, 133]"
+afraid,afraid,"[125, 127, 128]"
+after,after,"[1, 17, 253, 250]"
+afterlife*,afterlife,"[253, 250, 359]"
+aftermath*,aftermath,"[253, 250]"
+afternoon*,afternoon,"[253, 250]"
+afterthought*,afterthought,"[131, 132, 253, 250]"
+afterward*,afterward,"[253, 250]"
+again,again,"[1, 16, 253, 250]"
+against,against,"[1, 17]"
+age,age,"[253, 250]"
+aged,aged,"[253, 250]"
+agent,agent,[354]
+agents,agents,[354]
+ages,ages,"[253, 250]"
+aggravat*,aggravat,"[125, 127, 129, 131, 133]"
+aggress*,aggress,"[125, 127, 129]"
+aging,aging,"[253, 250]"
+agitat*,agitat,"[125, 127, 129]"
+agnost*,agnost,[359]
+ago,ago,"[253, 250]"
+agoniz*,agoniz,"[125, 127, 130]"
+agony,agony,"[125, 127, 130]"
+agree,agree,"[125, 126, 462]"
+agreeab*,agreeab,"[125, 126]"
+agreed,agreed,"[125, 126]"
+agreeing,agreeing,"[125, 126]"
+agreement*,agreement,"[125, 126]"
+agrees,agrees,"[125, 126]"
+ah,ah,[462]
+ahead,ahead,"[1, 17, 253, 250, 355]"
+aids,aids,"[146, 148, 149]"
+aint,aint,"[11, 1, 12, 14, 19]"
+ain't,ain't,"[11, 1, 12, 14, 19]"
+air,air,"[250, 252]"
+alarm*,alarm,"[125, 127, 128]"
+alcohol*,alcohol,"[146, 148, 150]"
+alive,alive,"[146, 148, 360]"
+all,all,"[1, 20, 131, 136]"
+alla,alla,[359]
+allah*,allah,[359]
+allerg*,allerg,"[146, 148]"
+allot,allot,"[1, 20, 131, 135]"
+allow*,allow,"[131, 133]"
+almost,almost,"[131, 135]"
+alone,alone,"[125, 127, 130]"
+along,along,"[1, 17, 131, 138]"
+alot,alot,"[1, 10, 20, 131, 135]"
+already,already,"[253, 250]"
+alright*,alright,"[125, 126, 462]"
+also,also,"[1, 16, 18]"
+altar*,altar,[359]
+although,although,"[1, 18]"
+altogether,altogether,"[131, 136]"
+always,always,"[131, 136, 253, 250]"
+am,am,"[11, 1, 12, 14]"
+amaz*,amaz,"[125, 126]"
+ambigu*,ambigu,"[131, 135]"
+ambiti*,ambiti,"[354, 355]"
+amen,amen,[359]
+amigo*,amigo,"[121, 123]"
+amish,amish,[359]
+among*,among,"[1, 17, 252, 250]"
+amor*,amor,"[125, 126]"
+amount*,amount,[20]
+amput*,amput,"[146, 148]"
+amus*,amus,"[125, 126, 356]"
+an,an,"[1, 10]"
+anal,anal,"[131, 137, 146, 147]"
+analy*,analy,"[131, 132]"
+ancient*,ancient,"[253, 250]"
+and,and,"[1, 18, 131, 138]"
+angel,angel,[359]
+angelic*,angelic,[359]
+angels,angels,[359]
+anger*,anger,"[125, 127, 129]"
+angr*,angr,"[125, 127, 129]"
+anguish*,anguish,"[125, 127, 128]"
+ankle*,ankle,"[146, 147]"
+annoy*,annoy,"[125, 127, 129]"
+annual*,annual,"[253, 250]"
+anorexi*,anorexi,"[146, 148, 150]"
+another,another,"[1, 20]"
+answer*,answer,"[131, 132]"
+antacid*,antacid,"[146, 148]"
+antagoni*,antagoni,"[125, 127, 129]"
+antidepressant*,antidepressant,"[146, 148]"
+anus*,anus,"[146, 147]"
+anxi*,anxi,"[125, 127, 128]"
+any,any,"[1, 20, 131, 135]"
+anybod*,anybod,"[1, 2, 9, 121, 131, 135]"
+anyhow,anyhow,"[131, 135]"
+anymore,anymore,"[1, 20, 250, 253]"
+anyone*,anyone,"[1, 2, 9, 121, 131, 135]"
+anything,anything,"[1, 2, 9, 131, 135]"
+anytime,anytime,"[131, 135, 253, 250]"
+anyway*,anyway,"[1, 16]"
+anywhere,anywhere,"[1, 16, 131, 135, 252, 250]"
+aok,aok,"[125, 126, 462]"
+apart,apart,"[252, 250]"
+apartment*,apartment,"[356, 357]"
+apath*,apath,"[125, 127]"
+apolog*,apolog,[121]
+appall*,appall,"[125, 127]"
+apparent,apparent,"[131, 136]"
+apparently,apparently,"[1, 16, 131, 135]"
+appear,appear,"[11, 14, 131, 135, 251, 250]"
+appeared,appeared,"[11, 13, 131, 135, 251, 250]"
+appearing,appearing,"[131, 135, 251, 250]"
+appears,appears,"[11, 14, 131, 135, 251, 250]"
+appendic*,appendic,"[146, 148]"
+appendix,appendix,"[146, 147]"
+appeti*,appeti,"[146, 150]"
+applicant*,applicant,[354]
+applicat*,applicat,[354]
+appreciat*,appreciat,"[125, 126, 131, 132]"
+apprehens*,apprehens,"[125, 127, 128]"
+apprentic*,apprentic,[354]
+approach*,approach,"[251, 250]"
+approv*,approv,[355]
+approximat*,approximat,"[131, 135]"
+april,april,"[253, 250]"
+arbitrar*,arbitrar,"[131, 135]"
+arch,arch,"[146, 147]"
+are,are,"[11, 1, 12, 14]"
+area*,area,"[252, 250]"
+arent,arent,"[11, 1, 12, 14, 19]"
+aren't,aren't,"[11, 1, 12, 14, 19]"
+argh*,argh,"[125, 127, 129]"
+argu*,argu,"[121, 125, 127, 129]"
+arm,arm,"[146, 147]"
+armies,armies,[121]
+armpit*,armpit,"[146, 147]"
+arms*,arms,"[146, 147]"
+army,army,[121]
+aroma*,aroma,[140]
+around,around,"[1, 16, 17, 131, 138, 252]"
+arous*,arous,"[146, 147, 149]"
+arrival*,arrival,"[251, 250]"
+arrive,arrive,"[11, 14, 251, 250]"
+arrived,arrived,"[11, 13, 251, 250]"
+arrives,arrives,"[11, 14, 251, 250]"
+arriving,arriving,"[251, 250]"
+arrogan*,arrogan,"[125, 127, 129]"
+arse,arse,"[146, 147, 22]"
+arsehole*,arsehole,[22]
+arses,arses,"[146, 147, 22]"
+art,art,[356]
+arter*,arter,"[146, 147]"
+arthr*,arthr,"[146, 148]"
+artist*,artist,[356]
+arts,arts,[356]
+as,as,"[1, 17, 18]"
+asham*,asham,"[125, 127, 128]"
+ask,ask,"[11, 14, 121]"
+asked,asked,"[11, 13, 121]"
+asking,asking,[121]
+asks,asks,"[11, 14, 121]"
+asleep,asleep,"[146, 147]"
+aspirin*,aspirin,"[146, 148]"
+ass,ass,"[146, 147, 149, 22]"
+assault*,assault,"[125, 127, 129]"
+assembl*,assembl,[121]
+asses,asses,"[146, 147, 149, 22]"
+asshole*,asshole,"[125, 127, 129, 22]"
+assign*,assign,[354]
+assistan*,assistan,[354]
+associat*,associat,[354]
+assum*,assum,"[131, 132, 135]"
+assur*,assur,"[125, 126, 131, 136]"
+asthma*,asthma,"[146, 148]"
+at,at,"[1, 17, 252, 250]"
+ate,ate,"[11, 13, 146, 150]"
+athletic*,athletic,[356]
+atho,atho,"[1, 18]"
+atm,atm,[358]
+atms,atms,[358]
+atop,atop,"[1, 17, 252, 250]"
+attachment*,attachment,"[125, 126]"
+attack*,attack,"[125, 127, 129]"
+attain*,attain,[355]
+attempt*,attempt,[355]
+attend,attend,"[251, 250]"
+attended,attended,"[251, 250]"
+attending,attending,"[251, 250]"
+attends,attends,"[251, 250]"
+attent*,attent,"[131, 132]"
+attract*,attract,"[125, 126]"
+attribut*,attribut,"[131, 133]"
+auction*,auction,[358]
+audibl*,audibl,"[140, 142]"
+audio*,audio,"[140, 142]"
+audit,audit,[358]
+audited,audited,[358]
+auditing,auditing,[358]
+auditor,auditor,[358]
+auditorium*,auditorium,[354]
+auditors,auditors,[358]
+audits,audits,[358]
+august,august,"[253, 250]"
+aunt*,aunt,"[121, 122]"
+authorit*,authorit,[355]
+autops*,autops,[360]
+autumn,autumn,"[253, 250]"
+aversi*,aversi,"[125, 127, 128]"
+avert*,avert,"[131, 137]"
+avoid*,avoid,"[125, 127, 128, 131, 137]"
+aw,aw,[462]
+award*,award,"[125, 126, 354, 355]"
+aware*,aware,"[131, 132]"
+away,away,"[1, 17, 252, 250]"
+awesome,awesome,"[125, 126, 462]"
+awful,awful,"[125, 127]"
+awhile,awhile,"[253, 250]"
+awkward*,awkward,"[125, 127, 128]"
+babe*,babe,"[121, 124]"
+babies,babies,"[121, 124]"
+baby*,baby,"[121, 124]"
+back,back,"[1, 16, 253, 250]"
+backward*,backward,"[252, 250]"
+backyard,backyard,[357]
+bad,bad,"[125, 127]"
+bake*,bake,"[146, 150, 357]"
+baking,baking,"[146, 150, 357]"
+balcon*,balcon,[357]
+bald,bald,"[146, 147]"
+ball,ball,[356]
+ballet*,ballet,[356]
+bambino*,bambino,"[121, 124]"
+ban,ban,"[131, 137]"
+band,band,"[121, 356]"
+bandage*,bandage,"[146, 148]"
+bandaid,bandaid,"[146, 148]"
+bands,bands,"[121, 356]"
+bank*,bank,[358]
+banned,banned,"[131, 137]"
+banning,banning,"[131, 137]"
+bans,bans,"[131, 137]"
+baptis*,baptis,[359]
+baptiz*,baptiz,[359]
+bar,bar,"[146, 150, 356]"
+barely,barely,"[131, 135]"
+bargain*,bargain,[358]
+barrier*,barrier,"[131, 137]"
+bars,bars,"[146, 150, 356]"
+baseball*,baseball,[356]
+based,based,"[131, 133]"
+bases,bases,"[131, 133]"
+bashful*,bashful,"[125, 127]"
+basically,basically,"[1, 16]"
+basis,basis,"[131, 133]"
+basketball*,basketball,[356]
+bastard*,bastard,"[125, 127, 129, 22]"
+bath*,bath,"[356, 357]"
+battl*,battl,"[125, 127, 129]"
+be,be,"[11, 1, 12]"
+beach*,beach,[356]
+beat,beat,[355]
+beaten,beaten,"[125, 127, 129, 354, 355]"
+beaut*,beaut,"[125, 126, 140, 141]"
+became,became,"[11, 1, 12, 13, 131, 132]"
+because,because,"[1, 18, 131, 133]"
+become,become,"[11, 1, 12, 14, 131, 132]"
+becomes,becomes,"[11, 1, 12, 14, 131, 132]"
+becoming,becoming,"[11, 1, 12, 131, 132]"
+bed,bed,[357]
+bedding,bedding,[357]
+bedroom*,bedroom,[357]
+beds,beds,[357]
+been,been,"[11, 1, 12, 13]"
+beer*,beer,"[146, 150, 356]"
+before,before,"[1, 17, 253, 250]"
+began,began,"[11, 13, 253, 250]"
+beggar*,beggar,[358]
+begging,begging,[358]
+begin,begin,"[11, 14, 253, 250]"
+beginn*,beginn,"[253, 250]"
+begins,begins,"[11, 14, 253, 250]"
+begun,begun,"[253, 250]"
+behavio*,behavio,"[250, 251]"
+behind,behind,"[1, 17]"
+being,being,"[11, 1, 12]"
+belief*,belief,"[131, 132, 359]"
+believe,believe,"[11, 14, 131, 132]"
+believed,believed,"[11, 13, 131, 132]"
+believes,believes,"[11, 14, 131, 132]"
+believing,believing,"[131, 132]"
+bellies,bellies,"[146, 147]"
+belly,belly,"[146, 147]"
+beloved,beloved,"[125, 126]"
+below,below,"[1, 17, 252, 250]"
+bend,bend,"[252, 250]"
+bending,bending,"[252, 250]"
+bends,bends,"[252, 250]"
+beneath,beneath,"[1, 17, 252, 250]"
+benefic*,benefic,"[125, 126]"
+benefit,benefit,"[125, 126]"
+benefits,benefits,"[125, 126, 354]"
+benefitt*,benefitt,"[125, 126]"
+benevolen*,benevolen,"[125, 126]"
+benign*,benign,"[125, 126]"
+bent,bent,"[252, 250]"
+bereave*,bereave,[360]
+beside,beside,"[1, 17, 252, 250]"
+besides,besides,"[1, 17, 20, 131, 134]"
+best,best,"[125, 126, 355, 1, 20]"
+bet,bet,"[131, 135, 358]"
+bets,bets,"[131, 135, 358]"
+better,better,"[125, 126, 355]"
+betting,betting,"[131, 135, 358]"
+between,between,"[1, 17]"
+beyond,beyond,"[1, 16, 17, 252, 250]"
+bf*,bf,"[121, 123]"
+bi,bi,"[146, 149]"
+biannu*,biannu,"[253, 250]"
+bible*,bible,[359]
+biblic*,biblic,[359]
+bicep*,bicep,"[146, 147]"
+bicyc*,bicyc,[356]
+big,big,"[252, 250]"
+bigger,bigger,"[252, 250]"
+biggest,biggest,"[252, 250]"
+bike*,bike,[356]
+bill,bill,[358]
+billed,billed,[358]
+billing*,billing,[358]
+billion*,billion,"[1, 21]"
+bills,bills,[358]
+bimonth*,bimonth,"[253, 250]"
+binding,binding,"[131, 137]"
+binge*,binge,"[146, 148, 150]"
+binging,binging,"[146, 148, 150]"
+biolog*,biolog,[354]
+bipolar,bipolar,"[146, 148]"
+birdie*,birdie,[356]
+birth*,birth,"[253, 250]"
+bishop*,bishop,[359]
+bit,bit,[20]
+bitch*,bitch,"[125, 127, 129, 22]"
+bits,bits,[20]
+bitter*,bitter,"[125, 127, 129, 140]"
+biweek*,biweek,"[253, 250]"
+biz,biz,[354]
+black,black,"[140, 141]"
+blackboard*,blackboard,[354]
+blacke*,blacke,"[140, 141]"
+blackish*,blackish,"[140, 141]"
+blackjack,blackjack,[356]
+blacks,blacks,"[140, 141]"
+bladder*,bladder,"[146, 147]"
+blah,blah,[464]
+blam*,blam,"[121, 125, 127, 129]"
+blatant*,blatant,"[131, 136]"
+bldg*,bldg,[354]
+bleed*,bleed,"[146, 148]"
+blender*,blender,[357]
+bless*,bless,"[125, 126, 359]"
+blind*,blind,"[146, 148, 140, 141]"
+block,block,"[131, 137]"
+blockbuster*,blockbuster,[356]
+blocked,blocked,"[131, 137]"
+blocker*,blocker,"[131, 137]"
+blocking,blocking,"[131, 137]"
+blocks,blocks,"[131, 137]"
+blog*,blog,[356]
+blond*,blond,"[140, 141]"
+blood,blood,"[146, 147]"
+bloody,bloody,"[146, 147, 22]"
+blue*,blue,"[140, 141]"
+blur*,blur,"[131, 135]"
+bodi*,bodi,"[146, 147]"
+body*,body,"[146, 147]"
+boil*,boil,"[146, 150]"
+bold*,bold,"[125, 126]"
+bone,bone,"[146, 147]"
+boner*,boner,"[146, 149]"
+bones,bones,"[146, 147]"
+bonus*,bonus,"[125, 126, 355, 358]"
+bony,bony,"[146, 147]"
+boob*,boob,"[146, 147, 149, 22]"
+book*,book,"[354, 356]"
+boom*,boom,"[140, 142]"
+booz*,booz,"[146, 150]"
+borderline*,borderline,"[131, 135]"
+bore*,bore,"[125, 127]"
+boring,boring,"[125, 127]"
+born,born,"[253, 250]"
+borrow*,borrow,[358]
+boss*,boss,"[131, 133, 354]"
+both,both,"[1, 20, 131, 138, 252, 250]"
+bother*,bother,"[125, 127, 129]"
+bottom*,bottom,"[252, 250]"
+bought,bought,"[11, 13, 358]"
+bound*,bound,"[131, 137]"
+bowel*,bowel,"[146, 147]"
+boy,boy,"[121, 124]"
+boyf*,boyf,"[121, 123]"
+boy's,boy's,"[121, 124]"
+boys*,boys,"[121, 124]"
+brain*,brain,"[146, 147]"
+brake*,brake,"[131, 137]"
+brave*,brave,"[125, 126]"
+bread,bread,"[146, 150]"
+breadth,breadth,"[252, 250]"
+break,break,[250]
+breakfast*,breakfast,"[146, 150]"
+breast*,breast,"[146, 147, 149]"
+breath*,breath,"[146, 147]"
+bridle*,bridle,"[131, 137]"
+brief*,brief,"[251, 250]"
+bright*,bright,"[125, 126, 140, 141]"
+brillian*,brillian,"[125, 126]"
+bring,bring,"[11, 14, 251, 250]"
+bringing,bringing,"[251, 250]"
+brings,brings,"[11, 14, 251, 250]"
+brink,brink,"[252, 250]"
+bro,bro,"[121, 122]"
+broad*,broad,"[252, 250]"
+broke,broke,"[125, 127, 130]"
+broker*,broker,"[354, 358]"
+bronchi*,bronchi,"[146, 148]"
+broom*,broom,[357]
+bros,bros,"[121, 122]"
+brother*,brother,"[121, 122]"
+brought,brought,"[11, 13, 251, 250]"
+brown*,brown,"[140, 141]"
+brunch*,brunch,"[146, 150]"
+brush*,brush,"[140, 143]"
+brutal*,brutal,"[125, 127, 129]"
+buck,buck,[358]
+bucks,bucks,[358]
+bud,bud,"[121, 123]"
+buddh*,buddh,[359]
+buddies*,buddies,"[121, 123]"
+buddy*,buddy,"[121, 123]"
+budget*,budget,[358]
+building,building,[250]
+bulimi*,bulimi,"[146, 148, 150]"
+bunch,bunch,"[1, 20]"
+burden*,burden,"[125, 127]"
+bureau*,bureau,[354]
+burial*,burial,[360]
+buried,buried,[360]
+burnout*,burnout,"[354, 355]"
+burp*,burp,"[146, 148]"
+bury,bury,[360]
+business*,business,"[354, 358]"
+busy,busy,"[250, 253, 354]"
+but,but,"[1, 18, 131, 139]"
+butt,butt,"[146, 147, 149, 22]"
+butter*,butter,[140]
+butts,butts,"[146, 147, 149, 22]"
+butt's,butt's,"[146, 147, 149, 22]"
+buy*,buy,[358]
+by,by,"[1, 17]"
+bye,bye,"[121, 250, 253]"
+caf*,caf,"[146, 150]"
+calculus,calculus,[354]
+call,call,[121]
+called,called,"[11, 13, 121]"
+caller*,caller,[121]
+calling,calling,[121]
+calls,calls,[121]
+calm*,calm,"[125, 126]"
+came,came,"[11, 13, 131, 138, 251, 250]"
+camping,camping,[356]
+campus*,campus,[354]
+can,can,"[11, 1, 12, 14]"
+cancer*,cancer,"[146, 148]"
+candie*,candie,"[146, 150]"
+candle*,candle,"[140, 141]"
+candy,candy,"[146, 150]"
+cannot,cannot,"[11, 1, 12, 14, 19]"
+cant,cant,"[11, 1, 12, 14, 19]"
+can't,can't,"[11, 1, 12, 14, 19]"
+capab*,capab,[355]
+capacit*,capacit,"[252, 250]"
+captain,captain,[121]
+car,car,"[250, 251]"
+caramel*,caramel,[140]
+cardia*,cardia,"[146, 148]"
+cardio*,cardio,"[146, 148]"
+cards,cards,[356]
+care,care,"[11, 14, 125, 126]"
+cared,cared,"[11, 13, 125, 126]"
+career*,career,[354]
+carefree,carefree,"[125, 126]"
+careful*,careful,"[125, 126, 131, 137]"
+careless*,careless,"[125, 127]"
+cares,cares,"[11, 14, 125, 126]"
+caress*,caress,"[140, 143]"
+caring,caring,"[125, 126]"
+carpet*,carpet,[357]
+carried,carried,"[11, 13, 251, 250]"
+carrier*,carrier,"[251, 250]"
+carries,carries,"[11, 14, 251, 250]"
+carry,carry,"[11, 14, 251, 250]"
+carrying,carrying,"[251, 250]"
+cash*,cash,[358]
+casino*,casino,"[356, 358]"
+casket*,casket,[360]
+casual,casual,"[125, 126, 356]"
+casually,casually,"[125, 126]"
+casualt*,casualt,[360]
+catch,catch,"[250, 251]"
+categor*,categor,"[131, 132]"
+catholic*,catholic,[359]
+caught,caught,"[11, 13, 250, 251]"
+caus*,caus,"[131, 133]"
+caut*,caut,"[131, 137]"
+cd*,cd,[356]
+cease*,cease,"[131, 137, 253, 250]"
+ceasing,ceasing,"[131, 137, 253, 250]"
+ceiling*,ceiling,"[252, 250]"
+celebrat*,celebrat,"[121, 355, 356]"
+celebrit*,celebrit,[356]
+cell,cell,[121]
+cellphon*,cellphon,[121]
+cells,cells,[121]
+cellular*,cellular,[121]
+cemet*,cemet,[360]
+cent,cent,[358]
+center*,center,"[252, 250]"
+centre*,centre,"[252, 250]"
+cents,cents,[358]
+centur*,centur,"[253, 250]"
+ceo*,ceo,[354]
+certain*,certain,"[125, 126, 131, 136]"
+certif*,certif,[354]
+cetera,cetera,"[1, 20]"
+chairm*,chairm,[354]
+chalk,chalk,[354]
+challeng*,challeng,"[125, 126, 354, 355]"
+champ*,champ,"[125, 126, 354, 355]"
+chance,chance,"[131, 135]"
+change,change,"[250, 251, 131, 133]"
+changed,changed,"[11, 13, 250, 251, 131, 133]"
+changes,changes,"[250, 251, 131, 133]"
+changing,changing,"[250, 251, 131, 133]"
+channel*,channel,[356]
+chapel*,chapel,[359]
+chaplain*,chaplain,[359]
+charit*,charit,"[125, 126, 358]"
+charm*,charm,"[125, 126]"
+chat*,chat,"[121, 356]"
+cheap*,cheap,[358]
+cheat*,cheat,"[125, 127, 129]"
+check,check,[358]
+checkers,checkers,[356]
+checking,checking,[358]
+checks,checks,[358]
+checkup*,checkup,"[146, 148]"
+cheek*,cheek,"[146, 147]"
+cheer*,cheer,"[125, 126]"
+chequ*,chequ,[358]
+cherish*,cherish,"[125, 126]"
+chess,chess,[356]
+chest*,chest,"[146, 147]"
+chew*,chew,"[146, 150]"
+chick,chick,"[121, 124]"
+chick'*,chick',"[121, 124]"
+child,child,"[121, 124]"
+childhood,childhood,"[250, 253]"
+children*,children,"[121, 124]"
+child's,child's,"[121, 124]"
+chillin*,chillin,[356]
+chills,chills,"[146, 148]"
+chiropract*,chiropract,"[146, 148]"
+chlamydia,chlamydia,"[146, 148, 149]"
+chocolate*,chocolate,[140]
+choice*,choice,"[131, 132]"
+choir*,choir,"[356, 140, 142]"
+chok*,chok,"[146, 148]"
+cholester*,cholester,"[146, 148]"
+choos*,choos,"[131, 132]"
+chore*,chore,[357]
+chorus,chorus,[356]
+chow*,chow,"[146, 150]"
+christ,christ,[359]
+christian*,christian,[359]
+christmas*,christmas,"[250, 253, 359]"
+chronic*,chronic,"[146, 148]"
+chuckl*,chuckl,"[125, 126]"
+church*,church,[359]
+cigar*,cigar,"[146, 150]"
+cinema*,cinema,[356]
+circle,circle,"[140, 141]"
+citizen,citizen,"[121, 124]"
+citizen'*,citizen',"[121, 124]"
+citizens,citizens,"[121, 124]"
+citrus*,citrus,[140]
+city,city,"[250, 252]"
+clarif*,clarif,"[131, 132]"
+class,class,[354]
+classes,classes,[354]
+classmate*,classmate,[354]
+classroom*,classroom,[354]
+clean*,clean,[357]
+clear,clear,"[131, 136]"
+clearly,clearly,"[1, 16, 131, 136]"
+clergy,clergy,[359]
+clever*,clever,"[125, 126]"
+click*,click,"[140, 141]"
+climb*,climb,"[251, 250, 355]"
+clinic*,clinic,"[146, 148]"
+clock*,clock,"[253, 250]"
+close,close,"[131, 138, 252, 250]"
+closed,closed,"[252, 250]"
+closely,closely,"[251, 250]"
+closer,closer,"[252, 250]"
+closes,closes,"[251, 250]"
+closest,closest,"[252, 250]"
+closet,closet,[357]
+closets,closets,[357]
+closing,closing,"[251, 250]"
+closure,closure,"[131, 132, 355]"
+clothes,clothes,"[146, 147]"
+club*,club,[356]
+coach*,coach,[356]
+cock,cock,"[146, 147, 149, 22]"
+cocks*,cocks,"[146, 147, 149, 22]"
+cocktail*,cocktail,"[150, 356]"
+codeine,codeine,"[146, 148]"
+coffee*,coffee,"[146, 150, 356]"
+coffin*,coffin,[360]
+cohere*,cohere,"[131, 132]"
+coin,coin,[358]
+coins,coins,[358]
+coke*,coke,"[146, 150]"
+cold*,cold,"[140, 143]"
+collab*,collab,[354]
+colleague*,colleague,"[121, 123, 354]"
+colleg*,colleg,[354]
+cologne*,cologne,[140]
+colon,colon,"[146, 147]"
+colono*,colono,"[146, 148]"
+colons,colons,"[146, 147]"
+color*,color,"[140, 141]"
+colour*,colour,"[140, 141]"
+column*,column,"[140, 141]"
+com,com,[354]
+coma*,coma,"[146, 148]"
+come,come,"[11, 14, 131, 138, 251, 250]"
+comed*,comed,"[125, 126, 356]"
+comes,comes,"[11, 14, 251, 250]"
+comfort*,comfort,"[125, 126]"
+comic*,comic,[356]
+coming,coming,"[251, 250]"
+comment*,comment,[121]
+commerc*,commerc,[354]
+commit,commit,"[131, 136]"
+commitment*,commitment,"[125, 126, 131, 136]"
+commits,commits,"[131, 136]"
+committ*,committ,"[131, 136]"
+common,common,"[250, 253]"
+commun*,commun,[121]
+commute*,commute,[354]
+commuting,commuting,[354]
+companies,companies,[354]
+companion,companion,"[121, 123]"
+companions,companions,"[121, 123]"
+companionship*,companionship,[121]
+company,company,[354]
+compassion*,compassion,"[121, 125, 126]"
+compel*,compel,"[131, 133]"
+compensat*,compensat,[358]
+compet*,compet,[355]
+complain*,complain,"[121, 125, 127]"
+complete,complete,"[131, 136]"
+completed,completed,"[131, 136]"
+completely,completely,"[1, 16, 131, 136]"
+completes,completes,"[131, 136]"
+complex*,complex,"[131, 132]"
+compliance,compliance,"[131, 133]"
+complica*,complica,"[131, 132]"
+complie*,complie,"[131, 133]"
+compliment*,compliment,"[125, 126]"
+comply*,comply,"[131, 133]"
+compreh*,compreh,"[131, 132]"
+compulsiv*,compulsiv,"[131, 137]"
+comput*,comput,[354]
+comrad*,comrad,"[121, 123]"
+concentrat*,concentrat,"[131, 132]"
+concerned,concerned,[125]
+concert*,concert,"[356, 140, 142]"
+conclud*,conclud,"[131, 132, 133, 355]"
+conclus*,conclus,"[131, 132, 355]"
+condo,condo,[357]
+condom,condom,"[146, 149]"
+condominium*,condominium,[357]
+condoms,condoms,"[146, 149]"
+condos,condos,[357]
+conferenc*,conferenc,[354]
+confess*,confess,"[121, 131, 132, 359]"
+confide,confide,[121]
+confided,confided,[121]
+confidence,confidence,"[125, 126, 131, 136, 355]"
+confident,confident,"[125, 126, 131, 136, 355]"
+confidently,confidently,"[125, 126, 131, 136, 355]"
+confides,confides,[121]
+confiding,confiding,[121]
+confin*,confin,"[131, 137]"
+conflict*,conflict,"[131, 137]"
+confront*,confront,"[125, 127, 129]"
+confus*,confus,"[125, 127, 128, 131, 135]"
+congest*,congest,"[146, 148]"
+conglom*,conglom,[354]
+congregat*,congregat,[121]
+connection*,connection,"[250, 252]"
+conquer*,conquer,[355]
+conscientious*,conscientious,[355]
+conscious*,conscious,"[131, 132]"
+consequen*,consequen,"[131, 133]"
+conserv*,conserv,"[131, 137]"
+consider,consider,"[131, 132]"
+considerate,considerate,"[125, 126]"
+considered,considered,"[131, 132]"
+considering,considering,"[131, 132]"
+considers,considers,"[131, 132]"
+constant,constant,"[250, 253]"
+constantly,constantly,"[1, 16, 250, 253]"
+constipat*,constipat,"[146, 148]"
+constrain*,constrain,"[131, 137]"
+constrict*,constrict,"[131, 137]"
+consult*,consult,"[121, 354]"
+consumer*,consumer,"[354, 358]"
+contact*,contact,[121]
+contag*,contag,"[146, 148]"
+contain*,contain,"[131, 137]"
+contemplat*,contemplat,"[131, 132]"
+contempt*,contempt,"[125, 127, 129]"
+contented*,contented,"[125, 126]"
+contentment,contentment,"[125, 126]"
+contingen*,contingen,"[131, 135]"
+continu*,continu,"[253, 250]"
+contracts,contracts,[354]
+contradic*,contradic,"[121, 125, 127, 129, 131, 137]"
+control*,control,"[131, 133, 137, 355]"
+convent,convent,[359]
+convents,convents,[359]
+convers*,convers,[121]
+convinc*,convinc,"[125, 126]"
+cook*,cook,"[146, 150, 356]"
+cool,cool,"[125, 126, 462, 140, 143]"
+cornea*,cornea,"[146, 147]"
+corner,corner,"[252, 250]"
+corners,corners,"[252, 250]"
+coronar*,coronar,"[146, 148]"
+coroner*,coroner,"[360, 360]"
+corp,corp,[354]
+corporat*,corporat,"[354, 358]"
+corps,corps,[354]
+corpse*,corpse,[360]
+correct*,correct,"[131, 136]"
+correlat*,correlat,"[131, 132]"
+cos,cos,"[131, 133]"
+cost*,cost,[358]
+couch*,couch,[357]
+cough*,cough,"[146, 148]"
+could,could,"[11, 1, 12, 131, 134]"
+couldnt,couldnt,"[11, 1, 12, 19, 131, 134]"
+couldn't,couldn't,"[11, 1, 12, 19, 131, 134]"
+couldve,couldve,"[11, 1, 12, 13, 15, 131]"
+could've,could've,"[11, 1, 12, 13, 15, 131]"
+counc*,counc,"[121, 354]"
+couns*,couns,"[121, 354]"
+countr*,countr,"[250, 252]"
+couple,couple,"[1, 20]"
+coupon*,coupon,[358]
+courag*,courag,"[125, 126]"
+course*,course,[354]
+cousin*,cousin,"[121, 122]"
+coverage,coverage,"[250, 252]"
+coworker*,coworker,"[121, 354]"
+coz,coz,"[131, 133]"
+cramp*,cramp,"[146, 148]"
+crap,crap,"[125, 127, 129, 146, 147, 22]"
+crappy,crappy,"[125, 127, 129, 22]"
+craz*,craz,"[125, 127, 128]"
+cream,cream,"[140, 141]"
+create*,create,"[125, 126, 131, 133, 355]"
+creati*,creati,"[125, 126, 131, 133, 355]"
+credential*,credential,[354]
+credit*,credit,"[125, 126, 354, 358]"
+cremat*,cremat,[360]
+cried,cried,"[11, 13, 125, 127, 130]"
+cries,cries,"[125, 127, 130]"
+critical,critical,"[125, 127, 129]"
+critici*,critici,"[125, 127, 129]"
+cross*,cross,"[251, 250]"
+crotch,crotch,"[146, 147]"
+crowd*,crowd,[121]
+crown*,crown,[355]
+crucifi*,crucifi,[359]
+crude*,crude,"[125, 127, 129]"
+cruel*,cruel,"[125, 127, 129]"
+cruis*,cruis,"[251, 250, 356]"
+crusade*,crusade,[359]
+crushed,crushed,"[125, 127, 130]"
+cry,cry,"[125, 127, 130]"
+crying,crying,"[125, 127, 130]"
+crypt*,crypt,[360]
+cubicle*,cubicle,[354]
+cuddl*,cuddl,"[146, 149]"
+cultur*,cultur,[121]
+cunt*,cunt,"[125, 127, 129, 22]"
+curb*,curb,"[131, 137]"
+curio*,curio,"[131, 132]"
+currenc*,currenc,[358]
+current*,current,"[253, 250]"
+curricul*,curricul,[354]
+curtail*,curtail,"[131, 137]"
+curtain*,curtain,[357]
+customer*,customer,"[354, 358]"
+cut,cut,"[125, 127, 129]"
+cute*,cute,"[125, 126]"
+cutie*,cutie,"[125, 126]"
+cuz,cuz,"[1, 18, 131, 133]"
+cv*,cv,[354]
+cycle*,cycle,"[253, 250]"
+cynic,cynic,"[125, 127, 129]"
+cyst*,cyst,"[146, 148]"
+dad*,dad,"[121, 122]"
+dail*,dail,"[253, 250]"
+damag*,damag,"[125, 127, 130]"
+damn*,damn,"[125, 127, 129, 22]"
+danc*,danc,"[251, 250, 356]"
+dang,dang,[22]
+danger*,danger,"[125, 127, 129]"
+daring,daring,"[125, 126]"
+darlin*,darlin,"[125, 126]"
+darn,darn,[22]
+date*,date,"[253, 250]"
+dating,dating,[121]
+daughter*,daughter,"[121, 122]"
+day*,day,"[253, 250]"
+daze*,daze,"[125, 127]"
+dead,dead,[360]
+deadline*,deadline,[354]
+deaf*,deaf,"[146, 148, 140, 142]"
+deal,deal,[121]
+dean*,dean,[354]
+dear*,dear,"[125, 126]"
+death*,death,[360]
+debit*,debit,[358]
+debt*,debt,[358]
+decade*,decade,"[253, 250]"
+decay*,decay,"[125, 127, 253, 250]"
+decease*,decease,[360]
+december,december,"[253, 250]"
+decid*,decid,"[131, 132]"
+decis*,decis,"[131, 132]"
+decongest*,decongest,"[146, 148]"
+decorat*,decorat,[356]
+deduc*,deduc,"[131, 132, 133]"
+deep*,deep,"[252, 250]"
+defeat*,defeat,"[125, 127, 130, 355]"
+defect*,defect,"[125, 127]"
+defenc*,defenc,"[125, 127, 129, 131, 137]"
+defens*,defens,"[125, 127, 129, 131, 137]"
+define,define,"[131, 132]"
+defined,defined,"[131, 136]"
+defines,defines,"[131, 132]"
+defining,defining,"[131, 132]"
+definite,definite,"[125, 126, 131, 136]"
+definitely,definitely,"[1, 16, 125, 126, 131, 136]"
+definitive*,definitive,"[131, 136]"
+degrad*,degrad,"[125, 127]"
+delay*,delay,"[131, 137, 253, 250]"
+delectabl*,delectabl,"[140, 125, 126]"
+delegat*,delegat,[354]
+delicate*,delicate,"[125, 126]"
+delicious*,delicious,"[125, 126, 140]"
+deligh*,deligh,"[125, 126]"
+deliver*,deliver,"[251, 250]"
+demise,demise,[360]
+demon*,demon,[359]
+demote*,demote,[354]
+den,den,[357]
+denia*,denia,"[131, 137]"
+denie*,denie,"[131, 137]"
+dense,dense,"[252, 250]"
+densit*,densit,"[252, 250]"
+dentist*,dentist,"[146, 148]"
+deny*,deny,"[131, 137]"
+deoder*,deoder,[140]
+depart,depart,"[251, 250]"
+departed,departed,"[251, 250]"
+departing,departing,"[251, 250]"
+department*,department,[354]
+departs,departs,"[251, 250]"
+departure*,departure,"[251, 250]"
+depend,depend,"[131, 133, 135]"
+depended,depended,"[11, 13, 131, 133, 135]"
+depending,depending,"[131, 133, 135]"
+depends,depends,"[11, 14, 131, 133, 135]"
+deposit*,deposit,[358]
+depress*,depress,"[125, 127, 130]"
+depriv*,depriv,"[125, 127, 130]"
+dept,dept,[354]
+depth*,depth,"[252, 250]"
+derma*,derma,"[146, 148]"
+describe,describe,"[11, 14, 121]"
+described,described,"[11, 13, 121]"
+describes,describes,"[14, 121]"
+describing,describing,[121]
+desir*,desir,"[131, 134]"
+desk*,desk,[354]
+despair*,despair,"[125, 127, 130]"
+desperat*,desperat,"[125, 127, 128]"
+despis*,despis,"[125, 127, 129]"
+despite,despite,"[1, 17]"
+dessert*,dessert,"[146, 150]"
+destroy*,destroy,"[125, 127, 129]"
+destruct*,destruct,"[125, 127, 129]"
+determina*,determina,"[125, 126, 131, 132, 355]"
+determine,determine,"[131, 132]"
+determined,determined,"[125, 126, 131, 132, 355]"
+determines,determines,"[131, 132]"
+determining,determining,"[131, 132]"
+detox*,detox,"[146, 148]"
+devastat*,devastat,"[125, 127, 130]"
+devil*,devil,"[125, 127, 359]"
+devot*,devot,"[125, 126]"
+diabet*,diabet,"[146, 148]"
+diagnos*,diagnos,"[146, 148]"
+diagonal*,diagonal,"[252, 250]"
+diaries,diaries,[356]
+diarr*,diarr,"[146, 148]"
+diary,diary,[356]
+dick,dick,"[146, 147, 149, 22]"
+dicks,dicks,"[146, 147, 149, 22]"
+did,did,"[11, 1, 12, 13]"
+didnt,didnt,"[11, 1, 12, 13, 19]"
+didn't,didn't,"[11, 1, 12, 13, 19]"
+die,die,[360]
+died,died,"[11, 13, 360]"
+dies,dies,"[11, 14, 360]"
+diet*,diet,"[146, 150]"
+difference*,difference,"[131, 1, 20]"
+differentiat*,differentiat,"[131, 132]"
+difficult*,difficult,"[125, 127]"
+digest*,digest,"[146, 148, 150]"
+digni*,digni,"[125, 126]"
+diligen*,diligen,[355]
+dime*,dime,[358]
+dinar*,dinar,[358]
+dine,dine,"[150, 146]"
+dined,dined,"[146, 150]"
+diner,diner,"[146, 150]"
+dinero,dinero,[358]
+diners,diners,"[146, 150]"
+dines,dines,"[146, 150]"
+dining,dining,"[146, 150]"
+dinner*,dinner,"[146, 150]"
+diplom*,diplom,[354]
+directly,directly,"[131, 136]"
+director*,director,[354]
+disadvantage*,disadvantage,"[125, 127, 130]"
+disagree*,disagree,"[125, 127]"
+disappear*,disappear,"[251, 250]"
+disappoint*,disappoint,"[125, 127, 130]"
+disaster*,disaster,"[125, 127]"
+discern*,discern,"[131, 132]"
+disciplin*,disciplin,"[131, 137]"
+disclo*,disclo,"[121, 131, 132]"
+discomfort*,discomfort,"[125, 127, 128]"
+discount*,discount,[358]
+discourag*,discourag,"[125, 127, 130, 131, 137]"
+discover*,discover,"[131, 132]"
+discuss*,discuss,[121]
+disease*,disease,"[146, 148]"
+disgust*,disgust,"[125, 127, 129]"
+dish,dish,"[146, 150]"
+dishearten*,dishearten,"[125, 127, 130]"
+dishes,dishes,"[146, 150]"
+dishwasher*,dishwasher,[357]
+disillusion*,disillusion,"[125, 127, 130]"
+dislike,dislike,"[11, 14, 125, 127]"
+disliked,disliked,"[11, 13, 125, 127]"
+dislikes,dislikes,"[11, 14, 125, 127]"
+disliking,disliking,"[125, 127]"
+dismay*,dismay,"[125, 127]"
+disorient*,disorient,"[131, 135]"
+disregard*,disregard,"[131, 137]"
+dissatisf*,dissatisf,"[125, 127, 130]"
+dissertat*,dissertat,[354]
+distan*,distan,"[252, 250]"
+distinct*,distinct,"[131, 136]"
+distinguish*,distinguish,"[131, 132]"
+distract*,distract,"[125, 127, 128]"
+distraught,distraught,"[125, 127, 128]"
+distress*,distress,"[125, 127, 128]"
+distrust*,distrust,"[125, 127, 129]"
+disturb*,disturb,"[125, 127, 128]"
+dividend*,dividend,"[354, 358]"
+divin*,divin,"[125, 126, 359]"
+divorc*,divorc,[121]
+dizz*,dizz,"[146, 148]"
+dj*,dj,[356]
+do,do,"[11, 1, 12, 14]"
+doa,doa,[360]
+doctor*,doctor,"[146, 148, 354]"
+does,does,"[11, 1, 12, 14]"
+doesnt,doesnt,"[11, 1, 12, 14, 19]"
+doesn't,doesn't,"[11, 1, 12, 14, 19]"
+doghouse*,doghouse,[357]
+doing,doing,"[11, 1, 12]"
+dollar*,dollar,[358]
+domestic*,domestic,[357]
+domina*,domina,"[125, 127, 129, 355]"
+domote*,domote,[355]
+donat*,donat,[358]
+done,done,"[11, 1, 12, 13]"
+dont,dont,"[11, 1, 12, 14, 19]"
+don't,don't,"[11, 1, 12, 14, 19]"
+doom*,doom,"[125, 127, 130, 359]"
+door*,door,[357]
+dork*,dork,"[125, 127]"
+dorm*,dorm,"[354, 357]"
+dosage,dosage,"[146, 148]"
+dose*,dose,"[146, 148]"
+dosing,dosing,"[146, 148]"
+dotcom,dotcom,[354]
+doubl*,doubl,"[1, 20]"
+doubt*,doubt,"[125, 127, 128, 131, 135]"
+down,down,"[1, 17, 252, 250]"
+downsiz*,downsiz,[354]
+downward*,downward,"[252, 250]"
+dozen*,dozen,"[1, 21]"
+dr,dr,"[146, 148]"
+drama,drama,[356]
+drank,drank,"[11, 13, 146, 150]"
+drape*,drape,[357]
+dread*,dread,"[125, 127, 128]"
+dream*,dream,[356]
+dresser*,dresser,[357]
+drie*,drie,"[140, 143]"
+drift*,drift,"[251, 250]"
+drily,drily,"[140, 143]"
+drink*,drink,"[146, 150, 356]"
+drive,drive,"[251, 250]"
+driven,driven,"[11, 13, 251, 250, 355]"
+drives,drives,"[251, 250]"
+driveway*,driveway,[357]
+driving,driving,"[251, 250]"
+drool*,drool,"[140, 146, 147]"
+drop,drop,[250]
+dropout*,dropout,"[354, 355]"
+drove,drove,"[11, 13, 251, 250]"
+drown*,drown,[360]
+drows*,drows,"[146, 148]"
+drs,drs,"[146, 148]"
+drug*,drug,"[146, 148]"
+drum,drum,[356]
+drumm*,drumm,[356]
+drums,drums,[356]
+drunk*,drunk,"[146, 150, 356]"
+dry*,dry,"[140, 143]"
+dubious*,dubious,"[131, 135]"
+due,due,"[250, 253]"
+duh,duh,[462]
+dull*,dull,"[125, 127, 130]"
+dumb*,dumb,"[125, 127, 129, 22]"
+dump*,dump,"[125, 127, 129]"
+dunno,dunno,"[131, 135]"
+duplex*,duplex,[357]
+during,during,"[1, 17, 253, 250]"
+duti*,duti,"[131, 137, 354]"
+duty,duty,"[131, 137, 354]"
+dvd*,dvd,[356]
+dwell*,dwell,"[125, 127, 128]"
+dx,dx,"[146, 148]"
+dying,dying,[360]
+dyke*,dyke,"[146, 149, 22]"
+dynam*,dynam,"[125, 126]"
+each,each,"[1, 20, 131, 138]"
+eager*,eager,"[125, 126]"
+ear,ear,"[140, 142, 146, 147]"
+earli*,earli,"[253, 250]"
+early,early,"[253, 250]"
+earn*,earn,"[354, 355]"
+ears,ears,"[140, 142, 146, 147]"
+ease*,ease,"[125, 126]"
+easie*,easie,"[125, 126]"
+easily,easily,"[125, 126]"
+easiness,easiness,"[125, 126]"
+easing,easing,"[125, 126]"
+east*,east,"[252, 250]"
+easy*,easy,"[125, 126, 356]"
+eat,eat,"[146, 150]"
+eaten,eaten,"[11, 13, 146, 150]"
+eating,eating,"[146, 150]"
+eats,eats,"[146, 150]"
+econ*,econ,"[354, 358]"
+ecsta*,ecsta,"[125, 126]"
+edge,edge,"[252, 250, 140, 143]"
+edges,edges,"[252, 250, 140, 143]"
+edging,edging,"[252, 250, 140, 143]"
+edit*,edit,[354]
+educat*,educat,[354]
+effect*,effect,"[131, 132, 133, 355]"
+efficien*,efficien,"[125, 126, 355]"
+effort*,effort,[355]
+egg*,egg,"[146, 150]"
+egotis*,egotis,"[125, 127]"
+eight*,eight,"[1, 21]"
+either,either,"[1, 20, 131, 139]"
+elbow*,elbow,"[146, 147]"
+elegan*,elegan,"[125, 126]"
+elementary,elementary,[354]
+eleven,eleven,"[1, 21]"
+elicit*,elicit,"[131, 133]"
+elit*,elit,[355]
+else,else,"[1, 20]"
+email,email,[121]
+email'*,email',[121]
+emailed,emailed,"[11, 13, 121]"
+emailer*,emailer,[121]
+emailing,emailing,[121]
+emails,emails,[121]
+embalm*,embalm,[360]
+embarrass*,embarrass,"[125, 127, 128]"
+embezzl*,embezzl,[358]
+emotion,emotion,[125]
+emotional,emotional,"[125, 127, 128]"
+emotions,emotions,[125]
+emphysem*,emphysem,"[146, 148]"
+employ*,employ,[354]
+empt*,empt,"[125, 127, 130, 252, 250]"
+enabl*,enabl,[355]
+enclos*,enclos,"[131, 137, 252, 250]"
+encompass*,encompass,"[252, 250]"
+encourag*,encourag,"[121, 125, 126]"
+end,end,"[253, 250]"
+endeav*,endeav,[355]
+ended,ended,"[11, 13, 253, 250]"
+ending,ending,"[253, 250]"
+ends,ends,"[253, 250]"
+enema*,enema,"[146, 148]"
+enemie*,enemie,"[121, 125, 127, 129]"
+enemy*,enemy,"[121, 125, 127, 129]"
+energ*,energ,"[125, 126]"
+engag*,engag,"[125, 126]"
+enjoy*,enjoy,"[125, 126]"
+enlighten*,enlighten,"[131, 132]"
+enorm*,enorm,"[252, 250]"
+enough,enough,"[1, 20]"
+enrag*,enrag,"[125, 127, 129]"
+enter,enter,"[251, 250]"
+entered,entered,"[11, 13, 251, 250]"
+entering,entering,"[251, 250]"
+enters,enters,"[251, 250]"
+entertain*,entertain,"[125, 126, 356]"
+enthus*,enthus,"[125, 126]"
+entire*,entire,"[1, 20, 131, 136]"
+entrance*,entrance,"[252, 250]"
+envie*,envie,"[125, 127, 129]"
+envious,envious,"[125, 127, 129]"
+environment*,environment,"[252, 250]"
+envy*,envy,"[125, 127, 129]"
+epidemic*,epidemic,[360]
+episcopal*,episcopal,[359]
+equal*,equal,"[1, 20]"
+er,er,[463]
+era,era,"[253, 250]"
+erectile,erectile,"[146, 147, 149]"
+erection*,erection,"[146, 147, 149]"
+erotic*,erotic,"[146, 149]"
+esl,esl,[354]
+especially,especially,"[1, 16]"
+espresso*,espresso,"[146, 150]"
+essential,essential,"[131, 136]"
+estrogen*,estrogen,"[146, 148]"
+etc,etc,"[1, 20]"
+etern*,etern,"[253, 250]"
+euro,euro,[358]
+euros,euros,[358]
+evaluat*,evaluat,"[131, 132]"
+evangel*,evangel,[359]
+eve,eve,"[253, 250]"
+even,even,"[1, 16]"
+evening*,evening,"[253, 250]"
+event,event,"[250, 253]"
+eventually,eventually,"[1, 16, 250, 253]"
+ever,ever,"[1, 16, 131, 136, 253, 250]"
+every,every,"[1, 20, 131, 136]"
+everybod*,everybod,"[1, 2, 9, 121, 131, 136]"
+everyday,everyday,"[250, 253]"
+everyone*,everyone,"[1, 2, 9, 121]"
+everything*,everything,"[1, 2, 9, 121, 131, 136]"
+everywhere,everywhere,"[252, 250]"
+evident*,evident,"[131, 136]"
+evil*,evil,"[125, 127, 129]"
+ex,ex,"[121, 122]"
+exact*,exact,"[131, 136]"
+exam,exam,[354]
+examin*,examin,"[131, 132]"
+example*,example,"[1, 20]"
+exams,exams,[354]
+exbf*,exbf,"[121, 123]"
+exboyfriend*,exboyfriend,"[121, 123]"
+excel*,excel,"[125, 126, 354, 355]"
+except,except,"[1, 17, 131, 139]"
+exchang*,exchang,[358]
+excit*,excit,"[125, 126]"
+exclu*,exclu,"[131, 139]"
+excruciat*,excruciat,"[125, 127]"
+excus*,excus,[121]
+execution*,execution,[360]
+executive*,executive,[354]
+exercis*,exercis,"[146, 148, 356]"
+exes,exes,"[121, 122]"
+exgf*,exgf,"[121, 123]"
+exgirl*,exgirl,"[121, 123]"
+exhaust*,exhaust,"[125, 127, 146, 148]"
+exhubby*,exhubby,"[121, 122]"
+exhusband*,exhusband,"[121, 122]"
+exit*,exit,"[252, 250]"
+expect*,expect,"[131, 134]"
+expel*,expel,[354]
+expens*,expens,[358]
+experienc*,experienc,[140]
+experiment,experiment,"[131, 133]"
+explain,explain,"[11, 14, 121, 131, 132]"
+explained,explained,"[11, 13, 121, 131, 132]"
+explaining,explaining,"[121, 131, 132]"
+explains,explains,"[11, 14, 121, 131, 132]"
+explanat*,explanat,"[131, 132]"
+explicit*,explicit,"[131, 136]"
+explor*,explor,"[131, 132, 251, 250]"
+express*,express,[121]
+expulsion*,expulsion,[354]
+extent,extent,"[1, 20]"
+exterior*,exterior,"[252, 250]"
+exterminat*,exterminat,[360]
+extra,extra,"[1, 20]"
+extremely,extremely,"[1, 20, 131, 136]"
+exwife*,exwife,"[121, 122]"
+exwive*,exwive,"[121, 122]"
+eye*,eye,"[146, 147, 140, 141]"
+eying,eying,"[140, 141]"
+fab,fab,"[125, 126]"
+fabulous*,fabulous,"[125, 126]"
+face,face,"[146, 147]"
+faces,faces,"[146, 147]"
+facial*,facial,"[146, 147]"
+fact,fact,"[131, 136]"
+factories,factories,[354]
+factory,factory,[354]
+facts,facts,"[131, 136]"
+factual*,factual,"[131, 136]"
+facult*,facult,[354]
+fade*,fade,"[253, 250]"
+fading*,fading,"[253, 250]"
+fail*,fail,"[125, 127, 130, 354, 355]"
+faint*,faint,"[146, 148]"
+fairly,fairly,"[1, 20, 131, 135]"
+faith*,faith,"[125, 126, 359]"
+fake,fake,"[125, 127]"
+fall,fall,"[251, 250]"
+fallen,fallen,"[251, 250]"
+falling,falling,"[251, 250]"
+falls,falls,"[251, 250]"
+families*,families,"[121, 122, 356, 357]"
+family,family,"[121, 122, 356, 357]"
+fantasi*,fantasi,[356]
+fantastic*,fantastic,"[125, 126]"
+fantasy,fantasy,[356]
+far,far,"[252, 250]"
+farsighted,farsighted,"[146, 148]"
+farther,farther,"[252, 250]"
+farthest,farthest,"[252, 250]"
+fast,fast,"[253, 250]"
+faster,faster,"[253, 250]"
+fastest,fastest,"[253, 250]"
+fat,fat,"[146, 147, 148, 150]"
+fatal*,fatal,"[125, 127, 360]"
+father*,father,"[121, 122]"
+fatigu*,fatigu,"[125, 127, 130, 146, 148]"
+fats,fats,"[146, 148, 150]"
+fatt*,fatt,"[146, 147, 148, 150]"
+fault*,fault,"[125, 127]"
+favor*,favor,"[125, 126]"
+favour*,favour,"[125, 126]"
+fax*,fax,[354]
+fear,fear,"[125, 127, 128]"
+feared,feared,"[125, 127, 128]"
+fearful*,fearful,"[125, 127, 128]"
+fearing,fearing,"[125, 127, 128]"
+fearless*,fearless,"[125, 126]"
+fears,fears,"[125, 127, 128]"
+february,february,"[253, 250]"
+fed,fed,"[11, 13, 146, 150]"
+fee,fee,[358]
+feed,feed,"[146, 150]"
+feedback,feedback,[354]
+feeder*,feeder,"[146, 150]"
+feeding*,feeding,"[146, 150]"
+feeds,feeds,"[146, 150]"
+feel,feel,"[11, 14, 131, 132, 140, 143]"
+feeling*,feeling,"[131, 132, 140, 143]"
+feels,feels,"[11, 14, 131, 132, 140, 143]"
+fees,fees,[358]
+feet,feet,"[146, 147]"
+fell,fell,"[251, 250]"
+fellow*,fellow,"[121, 123]"
+felt,felt,"[11, 13, 131, 132, 140, 143]"
+female*,female,"[121, 124]"
+fenc*,fenc,"[131, 137]"
+feroc*,feroc,"[125, 127, 129]"
+festiv*,festiv,"[125, 126]"
+fetid*,fetid,[140]
+feud*,feud,"[121, 125, 127, 129]"
+fever*,fever,"[146, 148]"
+few*,few,"[1, 20]"
+fiance*,fiance,"[121, 123]"
+fiery,fiery,"[125, 127, 129]"
+fiesta*,fiesta,"[125, 126]"
+fift*,fift,"[1, 21]"
+fight*,fight,"[121, 125, 127, 129]"
+figur*,figur,"[131, 132]"
+fill*,fill,"[250, 251]"
+film*,film,[356]
+final,final,"[250, 253]"
+finaliz*,finaliz,"[354, 355]"
+finally,finally,"[250, 253]"
+finals,finals,[354]
+financ*,financ,"[354, 358]"
+find*,find,"[131, 132]"
+fine,fine,"[125, 126]"
+finger*,finger,"[146, 147, 140, 143]"
+finish*,finish,"[253, 250]"
+fire,fire,"[140, 143]"
+fired,fired,"[125, 127, 354]"
+fireplace*,fireplace,[357]
+firing,firing,[354]
+first,first,"[1, 21, 253, 250, 355]"
+firstly,firstly,"[1, 21, 253, 250]"
+firsts,firsts,"[1, 21, 253, 250, 355]"
+fishing,fishing,[356]
+fit,fit,"[250, 252]"
+fitness,fitness,[356]
+five,five,"[1, 21]"
+fizz*,fizz,"[140, 142]"
+flatscreen*,flatscreen,[356]
+flatter*,flatter,"[121, 125, 126]"
+flavor*,flavor,[140]
+flavour*,flavour,[140]
+flawless*,flawless,"[125, 126]"
+fled,fled,"[11, 13, 251, 250]"
+flee*,flee,"[251, 250]"
+flesh*,flesh,"[146, 147]"
+flew,flew,"[11, 13, 251, 250]"
+flexib*,flexib,"[125, 126, 140, 143]"
+flies,flies,"[251, 250]"
+flirt*,flirt,"[125, 126]"
+floor*,floor,"[252, 250]"
+flow*,flow,"[251, 250]"
+flu,flu,"[146, 148]"
+flunk*,flunk,"[125, 127, 130]"
+fly,fly,"[251, 250]"
+flying,flying,"[251, 250]"
+foe*,foe,"[125, 127, 129]"
+folks,folks,"[121, 122]"
+follow,follow,"[11, 14, 251, 250]"
+followed,followed,"[11, 13, 251, 250]"
+following,following,"[251, 250]"
+follows,follows,"[11, 14, 251, 250]"
+followup*,followup,"[253, 250]"
+fond,fond,"[125, 126]"
+fondly,fondly,"[125, 126]"
+fondness,fondness,"[125, 126]"
+food*,food,"[146, 150]"
+fool*,fool,"[125, 127]"
+foot,foot,"[146, 147]"
+football*,football,[356]
+for,for,"[1, 17]"
+forbid*,forbid,"[125, 127, 131, 137]"
+force*,force,"[131, 133]"
+forearm*,forearm,"[146, 147]"
+forehead*,forehead,"[146, 147]"
+foreplay,foreplay,"[146, 149]"
+forever,forever,"[131, 136, 253, 250]"
+forgave,forgave,"[121, 125, 126, 131, 132]"
+forget*,forget,"[131, 137]"
+forgiv*,forgiv,"[121, 125, 126, 131, 132]"
+forgot*,forgot,"[131, 137, 11, 13]"
+form,form,"[1, 20]"
+former*,former,"[253, 250]"
+fortune*,fortune,[358]
+forward*,forward,"[251, 250, 252, 253]"
+fought,fought,"[11, 13, 121, 125, 127, 129]"
+found,found,"[11, 13, 131, 132]"
+foundation*,foundation,"[131, 133]"
+founded,founded,"[131, 133, 355]"
+founder*,founder,"[131, 133, 355]"
+founding,founding,[355]
+four*,four,"[1, 21]"
+fragil*,fragil,"[140, 143]"
+fragran*,fragran,[140]
+franc,franc,[358]
+franchis*,franchis,"[354, 358]"
+francs,francs,[358]
+frankly,frankly,"[131, 136]"
+frantic*,frantic,"[125, 127, 128]"
+frat,frat,[354]
+fratern*,fratern,[354]
+freak*,freak,"[125, 127]"
+free,free,"[125, 126, 358]"
+freeb*,freeb,"[125, 126, 358]"
+freed*,freed,"[125, 126]"
+freeing,freeing,"[125, 126]"
+freely,freely,"[125, 126]"
+freeness,freeness,"[125, 126]"
+freer,freer,"[125, 126]"
+frees*,frees,"[125, 126]"
+freez*,freez,"[140, 143]"
+frequent,frequent,"[253, 250]"
+frequented,frequented,"[253, 250]"
+frequenting,frequenting,"[253, 250]"
+frequently,frequently,"[1, 16, 253, 250]"
+frequents,frequents,"[253, 250]"
+freshm*,freshm,[354]
+friday*,friday,"[253, 250]"
+fridge*,fridge,[357]
+friend*,friend,"[121, 123, 125, 126]"
+fries,fries,"[146, 150]"
+fright*,fright,"[125, 127, 128]"
+frisbee*,frisbee,[356]
+from,from,"[1, 17]"
+front,front,"[250, 251]"
+froze*,froze,"[140, 143]"
+fruit*,fruit,"[146, 150, 140]"
+frustrat*,frustrat,"[125, 127, 129]"
+fry*,fry,"[146, 150]"
+fuck,fuck,"[11, 14, 125, 127, 129, 146]"
+fucked*,fucked,"[11, 13, 125, 127, 129, 146]"
+fucker*,fucker,"[125, 127, 129, 146, 149, 22]"
+fuckin*,fuckin,"[125, 127, 129, 146, 149, 22]"
+fucks,fucks,"[11, 14, 125, 127, 129, 146]"
+fulfill*,fulfill,[355]
+full*,full,"[1, 20, 252, 250]"
+fume*,fume,"[125, 127, 129]"
+fuming,fuming,"[125, 127, 129]"
+fun,fun,"[125, 126]"
+fund,fund,[358]
+fundamental,fundamental,"[131, 136]"
+fundamentalis*,fundamentalis,"[131, 136, 359]"
+fundamentally,fundamentally,"[131, 136]"
+fundamentals,fundamentals,"[131, 136]"
+funded,funded,[358]
+funding,funding,[358]
+funds,funds,[358]
+funer*,funer,[360]
+funn*,funn,"[125, 126]"
+furious*,furious,"[125, 127, 129]"
+furniture,furniture,[357]
+further*,further,"[252, 250]"
+fury,fury,"[125, 127, 129]"
+futon*,futon,[357]
+futur*,futur,"[253, 250]"
+fuzz*,fuzz,"[131, 135, 140, 143]"
+gain*,gain,[355]
+gambl*,gambl,[358]
+game*,game,"[121, 356]"
+gaming,gaming,[356]
+garage*,garage,"[356, 357]"
+garden*,garden,"[356, 357]"
+gate*,gate,[357]
+gather*,gather,[121]
+gave,gave,"[11, 13, 121]"
+gay,gay,"[146, 149]"
+gays,gays,"[146, 149]"
+gaz*,gaz,"[140, 141]"
+geek*,geek,"[125, 127]"
+general,general,[131]
+generally,generally,"[1, 16, 131, 135]"
+generate*,generate,"[131, 133]"
+generating,generating,"[131, 133]"
+generation*,generation,"[253, 250]"
+generator*,generator,"[131, 133]"
+genero*,genero,"[125, 126]"
+genital*,genital,"[146, 147, 149]"
+genocid*,genocid,[360]
+gentile*,gentile,[359]
+gentle,gentle,"[125, 126]"
+gentlem*,gentlem,"[121, 124]"
+gentler,gentler,"[125, 126]"
+gentlest,gentlest,"[125, 126]"
+gently,gently,"[125, 126]"
+get,get,"[11, 14]"
+gets,gets,"[11, 14]"
+gf*,gf,"[121, 123]"
+ghost*,ghost,[360]
+giant*,giant,"[252, 250]"
+gigantic,gigantic,"[252, 250]"
+giggl*,giggl,"[125, 126]"
+ginormous,ginormous,"[252, 250]"
+girl,girl,"[121, 124]"
+girlfriend*,girlfriend,"[121, 123]"
+girl's,girl's,"[121, 124]"
+girls*,girls,"[121, 124]"
+give,give,"[11, 14, 121]"
+given,given,"[11, 13]"
+giver*,giver,"[121, 125, 126]"
+gives,gives,"[11, 14, 121]"
+giving,giving,"[121, 125, 126]"
+glad,glad,"[125, 126]"
+gladly,gladly,"[125, 126]"
+glamor*,glamor,"[125, 126]"
+glamour*,glamour,"[125, 126]"
+glanc*,glanc,"[140, 141]"
+gland*,gland,"[146, 148]"
+glaucoma,glaucoma,"[146, 148]"
+global*,global,"[252, 250]"
+gloom*,gloom,"[125, 127, 130]"
+glori*,glori,"[125, 126]"
+glory,glory,"[125, 126]"
+glow*,glow,"[140, 141]"
+glutton*,glutton,"[146, 150]"
+gmat,gmat,[354]
+go,go,"[11, 14, 251, 250]"
+goal*,goal,"[354, 355]"
+gobble*,gobble,"[146, 150]"
+gobbling,gobbling,"[146, 150]"
+god,god,[359]
+god'*,god',[359]
+goddam*,goddam,"[125, 127, 129, 22]"
+goes,goes,"[11, 14, 251, 250]"
+going,going,"[251, 250]"
+golf*,golf,[356]
+gone,gone,"[11, 13, 251, 250]"
+gonna,gonna,"[11, 15]"
+gonorrhea,gonorrhea,"[146, 149]"
+good,good,"[125, 126]"
+goodness,goodness,"[125, 126]"
+goosebump*,goosebump,"[146, 147]"
+gorgeous*,gorgeous,"[125, 126]"
+gospel*,gospel,[359]
+gossip*,gossip,"[121, 125, 127]"
+got,got,"[11, 13]"
+gotta,gotta,"[11, 15]"
+gotten,gotten,"[11, 13]"
+gov,gov,[354]
+govern*,govern,[354]
+gpa,gpa,[354]
+grab*,grab,"[140, 143]"
+grace,grace,"[125, 126]"
+graced,graced,"[125, 126]"
+graceful*,graceful,"[125, 126]"
+graces,graces,"[125, 126]"
+graci*,graci,"[125, 126]"
+grad,grad,[354]
+grade*,grade,[354]
+grading,grading,[354]
+graduat*,graduat,[354]
+grand,grand,"[125, 126]"
+grandchil*,grandchil,"[121, 122]"
+granddad*,granddad,"[121, 122]"
+granddau*,granddau,"[121, 122]"
+grande*,grande,"[125, 126]"
+grandf*,grandf,"[121, 122]"
+grandkid*,grandkid,"[121, 122]"
+grandm*,grandm,"[121, 122]"
+grandpa*,grandpa,"[121, 122]"
+grandson*,grandson,"[121, 122]"
+granny,granny,"[121, 122]"
+grasp*,grasp,"[131, 132]"
+gratef*,gratef,"[125, 126]"
+grati*,grati,"[125, 126]"
+grave*,grave,"[125, 127, 130, 360]"
+gray*,gray,"[140, 141]"
+gre,gre,[354]
+greas*,greas,[140]
+great,great,"[125, 126]"
+greater,greater,"[1, 20]"
+greatest,greatest,"[1, 20]"
+greed*,greed,"[125, 127, 129, 358]"
+green*,green,"[140, 141]"
+grew,grew,"[250, 251]"
+grey*,grey,"[140, 141]"
+grief,grief,"[125, 127, 130, 360]"
+griev*,griev,"[125, 127, 130, 360]"
+grim*,grim,"[125, 127, 130]"
+grin,grin,"[125, 126]"
+grinn*,grinn,"[125, 126]"
+grins,grins,"[125, 126]"
+grip,grip,"[140, 143]"
+gripp*,gripp,"[140, 143]"
+grips,grips,"[140, 143]"
+grocer*,grocer,"[146, 150]"
+gross*,gross,"[125, 127]"
+grouch*,grouch,"[125, 127, 129]"
+ground*,ground,"[252, 250]"
+group*,group,[121]
+grow,grow,"[250, 251]"
+growing,growing,"[250, 251]"
+grown,grown,"[250, 251]"
+grownup*,grownup,"[121, 124]"
+growth,growth,"[250, 251]"
+grr*,grr,"[125, 127, 129]"
+grudge*,grudge,[121]
+guarant*,guarant,"[131, 136]"
+guard*,guard,"[131, 137]"
+guess,guess,"[11, 14, 131, 135]"
+guessed,guessed,"[11, 13, 131, 135]"
+guesses,guesses,"[11, 14, 131, 135]"
+guessing,guessing,"[131, 135]"
+guest*,guest,"[121, 123]"
+guilt*,guilt,"[125, 127, 128]"
+guitar*,guitar,[356]
+gulp*,gulp,"[146, 150]"
+gums,gums,"[146, 147]"
+gut,gut,"[146, 147]"
+guts,guts,"[146, 147]"
+guy*,guy,"[121, 124]"
+gym*,gym,[356]
+gynecolog*,gynecolog,"[146, 148]"
+gyno*,gyno,"[146, 148]"
+ha,ha,"[125, 126, 462]"
+had,had,"[11, 1, 12, 13]"
+hadnt,hadnt,"[11, 1, 12, 13, 19]"
+hadn't,hadn't,"[11, 1, 12, 13, 19]"
+hah,hah,[462]
+haha*,haha,"[125, 126, 462]"
+hair*,hair,"[146, 147, 140, 143]"
+half,half,"[1, 21]"
+halfass*,halfass,"[131, 135]"
+hall,hall,"[250, 252]"
+hallucinat*,hallucinat,"[146, 148]"
+halt*,halt,"[131, 137]"
+hamstring*,hamstring,"[146, 147]"
+hand,hand,"[146, 147, 140, 143]"
+handful*,handful,"[140, 143]"
+hands,hands,"[146, 147, 140, 143]"
+handsom*,handsom,"[125, 126]"
+hang,hang,"[250, 251]"
+hangin*,hangin,[356]
+hangout*,hangout,[356]
+hangover*,hangover,"[146, 148]"
+hangup*,hangup,"[131, 137]"
+happen,happen,"[11, 14]"
+happened,happened,"[11, 13]"
+happening,happening,"[250, 253]"
+happens,happens,"[11, 14]"
+happi*,happi,"[125, 126]"
+happy,happy,"[125, 126]"
+harass*,harass,"[125, 127, 129]"
+hard,hard,"[140, 143]"
+harde*,harde,"[140, 143]"
+hardly,hardly,"[131, 135]"
+hardwork*,hardwork,[354]
+harm,harm,"[125, 127]"
+harmed,harmed,"[125, 127]"
+harmful*,harmful,"[125, 127]"
+harming,harming,"[125, 127]"
+harmless*,harmless,"[125, 126]"
+harmon*,harmon,"[125, 126, 140, 142]"
+harms,harms,"[125, 127]"
+harness*,harness,"[131, 137]"
+has,has,"[11, 1, 12, 14]"
+hasnt,hasnt,"[11, 1, 12, 14, 19]"
+hasn't,hasn't,"[11, 1, 12, 14, 19]"
+hate,hate,"[11, 14, 125, 127, 129]"
+hated,hated,"[11, 13, 125, 127, 129]"
+hateful*,hateful,"[125, 127, 129]"
+hater*,hater,"[125, 127, 129]"
+hates,hates,"[11, 14, 125, 127, 129]"
+hating,hating,"[125, 127, 129]"
+hatred,hatred,"[125, 127, 129]"
+have,have,"[11, 1, 12, 14]"
+havent,havent,"[11, 1, 12, 14, 19]"
+haven't,haven't,"[11, 1, 12, 14, 19]"
+having,having,"[11, 1, 12]"
+hazie*,hazie,"[131, 135]"
+hazy,hazy,"[125, 131, 135]"
+he,he,"[1, 2, 3, 7, 121]"
+head,head,"[146, 147]"
+headache*,headache,"[146, 148]"
+headed,headed,"[251, 250]"
+headhunter*,headhunter,[354]
+heading,heading,"[251, 250]"
+heads,heads,"[146, 147]"
+heal,heal,"[146, 148]"
+healed,healed,"[146, 148]"
+healer*,healer,"[146, 148]"
+healing,healing,"[146, 148]"
+heals,heals,"[146, 148]"
+health*,health,"[146, 148]"
+hear,hear,"[11, 14, 121, 140, 142]"
+heard,heard,"[11, 13, 121, 140, 142]"
+hearing,hearing,"[121, 140, 142]"
+hears,hears,"[11, 14, 121, 140, 142]"
+hearse*,hearse,[360]
+heart,heart,"[146, 147]"
+heartbreak*,heartbreak,"[125, 127, 130]"
+heartbroke*,heartbroke,"[125, 127, 130]"
+heartburn*,heartburn,"[146, 148]"
+heartfelt,heartfelt,"[125, 126]"
+heartless*,heartless,"[125, 127, 129]"
+hearts,hearts,"[146, 147]"
+heartwarm*,heartwarm,"[125, 126]"
+heaven*,heaven,"[125, 126, 359]"
+heavie*,heavie,"[140, 143]"
+heavy*,heavy,"[140, 143]"
+heck,heck,[22]
+hed,hed,"[1, 2, 3, 7, 11, 12]"
+he'd,he'd,"[1, 2, 3, 7, 11, 12]"
+heel*,heel,"[146, 147]"
+heh*,heh,"[125, 126, 462]"
+height*,height,"[252, 250]"
+held,held,"[11, 13, 131, 137]"
+he'll,he'll,"[11, 15, 121]"
+hell,hell,"[125, 127, 129, 359, 22]"
+hellish,hellish,"[125, 127, 129, 359]"
+hello*,hello,[121]
+hells,hells,[359]
+help,help,[121]
+helped,helped,"[11, 13]"
+helper*,helper,"[121, 125, 126]"
+helpful*,helpful,"[121, 125, 126]"
+helping,helping,"[121, 125, 126]"
+helpings,helpings,"[146, 150]"
+helpless*,helpless,"[125, 127, 130]"
+helps,helps,"[11, 14, 121, 125, 126]"
+hemor*,hemor,"[146, 148]"
+hence,hence,"[131, 133]"
+her,her,"[1, 2, 3, 7, 121]"
+here,here,"[1, 16]"
+heres,heres,"[11, 1, 12, 14, 16]"
+here's,here's,"[11, 1, 12, 14, 16]"
+hero*,hero,"[125, 126, 355]"
+herpes,herpes,"[146, 148]"
+hers,hers,"[1, 2, 3, 7, 121]"
+herself,herself,"[1, 2, 3, 7, 121]"
+hes,hes,"[1, 2, 3, 7, 11, 12]"
+he's,he's,"[1, 2, 3, 7, 11, 12]"
+hesita*,hesita,"[125, 127, 128, 131, 135, 137]"
+hey,hey,[121]
+hi,hi,[121]
+hiccup*,hiccup,"[146, 148]"
+high,high,"[252, 250]"
+highe*,highe,"[252, 250]"
+highly,highly,"[1, 20]"
+highschool*,highschool,[354]
+hik*,hik,"[251, 250, 356]"
+hilarious,hilarious,"[125, 126]"
+him,him,"[1, 2, 3, 7, 121]"
+himself,himself,"[1, 2, 3, 7, 121]"
+hindu*,hindu,[359]
+hip,hip,"[146, 147]"
+hiphop,hiphop,[356]
+hips,hips,"[146, 147]"
+hire*,hire,[354]
+hiring,hiring,[354]
+his,his,"[1, 2, 3, 7, 121]"
+histor*,histor,"[253, 250]"
+hit,hit,"[10, 14]"
+hiv,hiv,"[146, 148, 149]"
+hm*,hm,"[462, 463]"
+ho,ho,"[146, 149]"
+hobb*,hobb,[356]
+hockey*,hockey,[356]
+hoho*,hoho,"[125, 126]"
+hold*,hold,"[131, 137]"
+holiday*,holiday,[356]
+holie*,holie,[359]
+holocaust*,holocaust,[360]
+holy,holy,[359]
+home,home,[357]
+homes,homes,[357]
+homesick*,homesick,"[125, 127, 130, 357]"
+homework*,homework,"[354, 357]"
+homo,homo,"[146, 149, 22]"
+homocid*,homocid,[360]
+homos,homos,"[146, 149]"
+homosexual*,homosexual,"[146, 149]"
+honest*,honest,"[125, 126]"
+honey,honey,"[121, 123, 140]"
+honor*,honor,"[125, 126, 355]"
+honour*,honour,"[125, 126, 355]"
+hope,hope,"[11, 14, 125, 126, 131, 134]"
+hoped,hoped,"[11, 13, 125, 126, 131, 134]"
+hopeful,hopeful,"[125, 126, 131, 134, 135]"
+hopefully,hopefully,"[1, 16, 125, 126, 131, 134]"
+hopefulness,hopefulness,"[125, 126, 131, 134, 135]"
+hopeless*,hopeless,"[125, 127, 130]"
+hopes,hopes,"[11, 14, 125, 126, 131, 134]"
+hoping,hoping,"[125, 126, 131, 134, 135]"
+horizontal*,horizontal,"[252, 250]"
+hormone*,hormone,"[146, 148]"
+hornie*,hornie,"[146, 147, 149]"
+horny,horny,"[146, 147, 149]"
+horr*,horr,"[125, 127, 128]"
+horseback,horseback,[356]
+hospital*,hospital,"[146, 148]"
+hostil*,hostil,"[125, 127, 129]"
+hot,hot,"[140, 143]"
+hotel*,hotel,[356]
+hott*,hott,"[140, 143]"
+hour*,hour,"[253, 250]"
+house*,house,[357]
+housing,housing,[357]
+how,how,"[1, 16, 18, 131, 133]"
+however,however,"[1, 16, 18]"
+hows,hows,"[11, 14, 131, 133]"
+how's,how's,"[11, 14, 131, 133]"
+hubby,hubby,"[121, 122]"
+hug,hug,"[125, 146, 149, 126]"
+huge*,huge,"[252, 250]"
+hugg*,hugg,"[125, 126, 146, 149]"
+hugs,hugs,"[125, 126, 146, 149]"
+huh,huh,[462]
+human*,human,"[121, 124]"
+humiliat*,humiliat,"[125, 127, 128, 129]"
+humor*,humor,"[125, 126]"
+humour*,humour,"[125, 126]"
+hump*,hump,"[146, 149]"
+hundred*,hundred,"[1, 21]"
+hunger*,hunger,"[146, 150]"
+hungover,hungover,"[146, 148]"
+hungr*,hungr,"[146, 150]"
+hunting,hunting,[356]
+hurra*,hurra,"[125, 126]"
+hurrie*,hurrie,"[253, 250]"
+hurry*,hurry,"[253, 250]"
+hurt*,hurt,"[125, 127, 130]"
+husband*,husband,"[121, 122]"
+hush*,hush,"[140, 142]"
+hymn*,hymn,[359]
+hyperten*,hyperten,"[146, 148]"
+hypotherm*,hypotherm,"[146, 148]"
+hypothes*,hypothes,"[131, 135]"
+hypothetic*,hypothetic,"[131, 135]"
+i,i,"[1, 2, 3, 4]"
+ibuprofen,ibuprofen,"[146, 148]"
+icu,icu,"[146, 148]"
+id,id,"[1, 2, 3, 4, 11, 12]"
+i'd,i'd,"[1, 2, 3, 4, 11, 12]"
+idea,idea,"[131, 132]"
+ideal*,ideal,"[125, 126, 131, 134, 355]"
+ideas,ideas,"[131, 132]"
+identif*,identif,"[131, 132]"
+idiot*,idiot,"[125, 127, 129]"
+idonítknow,idonítknow,[464]
+idontknow,idontknow,[464]
+if,if,"[1, 18, 131, 134, 135, 139]"
+ignit*,ignit,"[131, 133]"
+ignor*,ignor,"[125, 127, 131, 137]"
+i'll,i'll,"[1, 2, 3, 4, 11, 12]"
+ill,ill,"[146, 148]"
+illness*,illness,"[146, 148]"
+im,im,"[1, 2, 3, 4, 11, 12]"
+i'm,i'm,"[1, 2, 3, 4, 11, 12]"
+image*,image,"[140, 141]"
+imagin*,imagin,"[131, 132]"
+imean,imean,[464]
+immediate,immediate,"[253, 250]"
+immediately,immediately,"[1, 16, 253, 250]"
+immediateness,immediateness,"[253, 250]"
+immoral*,immoral,"[125, 127, 359]"
+immortal*,immortal,"[253, 250, 359, 360]"
+immun*,immun,"[146, 148]"
+impatien*,impatien,"[125, 127, 128]"
+impersonal,impersonal,"[125, 127]"
+implica*,implica,"[131, 133]"
+implicit*,implicit,"[131, 136]"
+implie*,implie,"[131, 133]"
+imply*,imply,"[131, 133]"
+impolite*,impolite,"[125, 127]"
+importan*,importan,"[355, 125, 126]"
+impossib*,impossib,"[131, 134]"
+impress*,impress,"[125, 126]"
+improve*,improve,"[125, 126, 355]"
+improving,improving,"[125, 126, 355]"
+in,in,"[1, 17, 252, 250]"
+inact*,inact,"[131, 133]"
+inadequa*,inadequa,"[125, 127, 128, 130, 131, 134]"
+inaudibl*,inaudibl,"[140, 142]"
+inc,inc,[354]
+incapab*,incapab,[355]
+incentive*,incentive,"[355, 125, 126]"
+incest*,incest,"[146, 149]"
+inch*,inch,"[252, 250]"
+inciden*,inciden,"[250, 253]"
+inclu*,inclu,"[131, 138]"
+income*,income,"[354, 358]"
+incompeten*,incompeten,[355]
+incomplet*,incomplet,"[131, 135]"
+incorp*,incorp,[354]
+increas*,increas,"[250, 251, 20]"
+indecis*,indecis,"[125, 127, 128, 131, 135]"
+indeed,indeed,"[131, 136]"
+indefinit*,indefinit,"[131, 135]"
+independ*,independ,"[131, 133]"
+indetermin*,indetermin,"[131, 135]"
+indigestion,indigestion,"[146, 148]"
+indirect*,indirect,"[131, 135]"
+individual*,individual,"[121, 124]"
+induc*,induc,"[131, 132, 133]"
+industr*,industr,[354]
+ineffect*,ineffect,"[125, 127, 355]"
+inevitab*,inevitab,"[131, 136]"
+inexpens*,inexpens,[358]
+infallib*,infallib,"[131, 136]"
+infant,infant,"[121, 124]"
+infant's,infant's,"[121, 124]"
+infants*,infants,"[121, 124]"
+infect*,infect,"[146, 148]"
+infer,infer,"[131, 132, 133]"
+inferior*,inferior,"[125, 127, 130]"
+inferr*,inferr,"[131, 132, 133]"
+infers,infers,"[131, 132, 133]"
+infinit*,infinit,"[1, 21, 253, 250]"
+inflam*,inflam,"[146, 148]"
+influenc*,influenc,"[131, 133]"
+info,info,"[131, 132]"
+inform,inform,"[121, 131, 132]"
+information,information,"[131, 132]"
+informative*,informative,"[131, 132]"
+informed,informed,"[131, 132]"
+informing,informing,"[131, 132]"
+informs,informs,"[121, 131, 132]"
+ingest*,ingest,"[146, 148, 150]"
+inhal*,inhal,[140]
+inherit*,inherit,[358]
+inhib*,inhib,"[125, 127, 128, 131, 137]"
+initial*,initial,"[253, 250]"
+initiat*,initiat,"[253, 250, 355]"
+injur*,injur,"[146, 148]"
+inn,inn,[356]
+inner*,inner,"[252, 250]"
+innocen*,innocen,"[125, 126]"
+inns,inns,[356]
+inquir*,inquir,"[131, 132]"
+insecur*,insecur,"[125, 127, 128]"
+inside,inside,"[1, 17, 131, 138, 252, 250]"
+insides,insides,"[1, 17, 252, 250]"
+insight*,insight,"[131, 132]"
+insincer*,insincer,"[125, 127]"
+insomnia*,insomnia,"[146, 148]"
+inspir*,inspir,"[125, 126, 131, 132]"
+instan*,instan,"[253, 250]"
+instead,instead,"[1, 16]"
+instruct*,instruct,[354]
+insulin,insulin,"[146, 148]"
+insult*,insult,"[121, 125, 127, 129]"
+insurance,insurance,[358]
+intell*,intell,"[125, 126]"
+intend*,intend,"[131, 133]"
+intent*,intent,"[131, 133]"
+interact*,interact,[121]
+interest*,interest,"[125, 126]"
+interfer*,interfer,"[131, 137]"
+interior*,interior,"[252, 250]"
+internal*,internal,"[250, 252]"
+internation*,internation,"[250, 252]"
+interpret*,interpret,"[131, 132]"
+interrup*,interrup,"[121, 125, 127, 129]"
+intersect*,intersect,"[252, 250]"
+interval*,interval,"[253, 250]"
+interview*,interview,"[121, 354]"
+intestin*,intestin,"[146, 147]"
+intimidat*,intimidat,"[125, 127, 129]"
+into,into,"[1, 17, 131, 138, 252, 250]"
+intox*,intox,"[146, 148]"
+intramural*,intramural,[356]
+invariab*,invariab,"[131, 136]"
+inventory,inventory,[354]
+invest*,invest,[358]
+invigor*,invigor,"[125, 126]"
+involv*,involv,[121]
+ipod*,ipod,[356]
+irrational*,irrational,"[125, 127, 128, 131]"
+irrefu*,irrefu,"[131, 136]"
+irresponsible*,irresponsible,[355]
+irrita*,irrita,"[125, 127, 128]"
+irs,irs,[358]
+is,is,"[11, 1, 12, 14]"
+islam*,islam,[359]
+isnt,isnt,"[11, 1, 12, 14, 19]"
+isn't,isn't,"[11, 1, 12, 14, 19]"
+isolat*,isolat,"[125, 127, 130]"
+issue,issue,[131]
+it,it,"[1, 2, 9]"
+itch*,itch,"[146, 147, 148]"
+itd,itd,"[1, 2, 9, 11, 12]"
+it'd,it'd,"[1, 2, 9, 11, 12]"
+item*,item,"[1, 20]"
+itll,itll,"[1, 2, 9, 11, 12, 15]"
+it'll,it'll,"[1, 2, 9, 11, 12, 15]"
+its,its,"[1, 2, 9]"
+it's,it's,"[1, 2, 9, 11, 12, 14]"
+itself,itself,"[1, 2, 9]"
+iv,iv,"[146, 148]"
+ive,ive,"[1, 2, 3, 4, 11, 12]"
+i've,i've,"[1, 2, 3, 4, 11, 12]"
+jackpot*,jackpot,[358]
+jaded,jaded,"[125, 127]"
+january,january,"[253, 250]"
+jaw*,jaw,"[146, 147]"
+jazz*,jazz,[356]
+jd,jd,[354]
+jealous*,jealous,"[125, 127, 129]"
+jeez,jeez,[22]
+jerk,jerk,"[125, 127, 129]"
+jerked,jerked,"[125, 127, 129]"
+jerks,jerks,"[125, 127, 129]"
+jesuit*,jesuit,[359]
+jesus,jesus,[359]
+jew,jew,[359]
+jewish*,jewish,[359]
+jews,jews,[359]
+jihad*,jihad,[359]
+jissom,jissom,"[146, 149]"
+jizz,jizz,"[146, 149]"
+job*,job,[354]
+jog*,jog,"[251, 250, 356]"
+joints,joints,"[146, 147]"
+joke*,joke,"[125, 126, 356]"
+joking,joking,"[125, 126, 356]"
+joll*,joll,"[125, 126]"
+journey*,journey,"[250, 251]"
+joy*,joy,"[125, 126]"
+juda*,juda,[359]
+july,july,"[253, 250]"
+jump*,jump,"[251, 250]"
+june,june,"[253, 250]"
+junior*,junior,[354]
+just,just,"[1, 16, 131, 139]"
+justif*,justif,"[131, 132, 133]"
+karaoke,karaoke,[356]
+karma,karma,[359]
+keen*,keen,"[125, 126]"
+keep,keep,"[11, 14, 131, 137]"
+keeping*,keeping,"[131, 137]"
+keeps,keeps,"[11, 14, 131, 137]"
+keg,keg,[356]
+kegger,kegger,[356]
+keggers,keggers,[356]
+kegs,kegs,[356]
+kept,kept,"[11, 13, 131, 137]"
+keyboard*,keyboard,[354]
+kid,kid,"[121, 124]"
+kid'*,kid',"[121, 124]"
+kidding,kidding,"[121, 125, 126]"
+kidney*,kidney,"[146, 147]"
+kids*,kids,"[121, 124]"
+kill*,kill,"[125, 127, 129, 360]"
+kilometer*,kilometer,"[252, 250]"
+kin,kin,"[121, 122]"
+kinda,kinda,"[131, 135]"
+kinderg*,kinderg,[354]
+kindly,kindly,"[125, 126]"
+kindn*,kindn,"[125, 126]"
+kindof,kindof,"[131, 135]"
+king*,king,[355]
+kippur,kippur,[359]
+kiss*,kiss,"[125, 126, 146, 149]"
+kitchen*,kitchen,"[146, 150, 357]"
+km*,km,"[252, 250]"
+knee*,knee,"[146, 147]"
+knew,knew,"[11, 13, 131, 132]"
+know,know,"[11, 14, 131, 132]"
+knowab*,knowab,"[131, 132]"
+knower*,knower,"[131, 132]"
+knowing,knowing,"[131, 132]"
+knowledg*,knowledg,"[131, 132]"
+known,known,"[131, 132]"
+knows,knows,"[11, 14, 131, 132]"
+knuckle*,knuckle,"[146, 147]"
+kopek*,kopek,[358]
+koran,koran,[359]
+kosher,kosher,[359]
+krishna*,krishna,[359]
+krisna*,krisna,[359]
+kron*,kron,[358]
+labor*,labor,[354]
+labour*,labour,[354]
+lack*,lack,"[1, 20, 131, 134]"
+ladies,ladies,"[121, 124]"
+lady,lady,"[121, 124]"
+lady's,lady's,"[121, 124]"
+laidback,laidback,"[125, 126, 356]"
+laidoff,laidoff,[354]
+lame*,lame,"[125, 127, 130]"
+land,land,"[252, 250]"
+landlord*,landlord,[357]
+language*,language,[121]
+laptop*,laptop,[354]
+large*,large,"[252, 250]"
+last*,last,"[253, 250]"
+late,late,"[253, 250]"
+lately,lately,"[1, 16, 253, 250]"
+later,later,"[253, 250]"
+latest,latest,"[253, 250]"
+laugh*,laugh,"[125, 126]"
+launch*,launch,"[131, 133]"
+law,law,"[131, 136]"
+lawn*,lawn,[357]
+lawyer*,lawyer,[354]
+layoff*,layoff,[354]
+lazie*,lazie,"[355, 125, 127]"
+lazy,lazy,"[355, 125, 127]"
+lead*,lead,"[131, 133, 251, 250, 354, 355]"
+learn*,learn,"[131, 132, 354]"
+lease*,lease,"[357, 358]"
+leasing*,leasing,"[357, 358]"
+least,least,"[1, 20]"
+leather*,leather,"[140, 143]"
+leave,leave,"[251, 250]"
+leaves,leaves,"[251, 250]"
+leaving,leaving,"[251, 250]"
+lectur*,lectur,[354]
+led,led,"[131, 133, 251, 250]"
+ledge*,ledge,"[252, 250]"
+ledging,ledging,"[252, 250]"
+left,left,"[250, 252]"
+leg,leg,"[146, 147]"
+legal*,legal,[354]
+legs*,legs,"[146, 147]"
+lesbian*,lesbian,"[146, 149]"
+less,less,"[1, 20]"
+lesson*,lesson,"[355, 131, 132]"
+let,let,"[1, 11, 12]"
+lethal*,lethal,[360]
+lets,lets,"[1, 2, 3, 5, 11, 14]"
+let's,let's,"[1, 2, 3, 5, 11, 14]"
+letter,letter,[121]
+leuke*,leuke,"[146, 148]"
+level,level,"[252, 250]"
+levels,levels,"[252, 250]"
+liabilit*,liabilit,"[125, 127, 131, 134]"
+liar*,liar,"[125, 127, 129]"
+libert*,libert,"[125, 126]"
+libid*,libid,"[146, 149]"
+librar*,librar,[354]
+lick*,lick,[140]
+lied,lied,"[11, 13, 125, 127, 129]"
+lies,lies,"[125, 127, 129]"
+life,life,"[146, 148]"
+light,light,[140]
+likeab*,likeab,"[125, 126]"
+liked,liked,"[11, 13, 125, 126]"
+likel*,likel,"[131, 135]"
+likes,likes,"[125, 126]"
+liking,liking,"[125, 126]"
+limit*,limit,"[131, 137, 355]"
+limp*,limp,"[140, 143]"
+link*,link,"[131, 132]"
+lip,lip,"[146, 147]"
+lips*,lips,"[146, 147]"
+liquor*,liquor,"[146, 150, 356]"
+lira,lira,[358]
+listen,listen,"[11, 14, 121, 140, 142]"
+listened,listened,"[11, 13, 121, 140, 142]"
+listener*,listener,"[121, 140, 142]"
+listening,listening,"[121, 140, 142]"
+listens,listens,"[11, 14, 121, 140, 142]"
+lit,lit,"[140, 141]"
+littl*,littl,"[252, 250]"
+lived,lived,"[11, 13]"
+livel*,livel,"[125, 126]"
+liver*,liver,"[146, 147]"
+living,living,"[146, 148]"
+lmao,lmao,"[125, 126]"
+loads,loads,"[1, 20]"
+loan*,loan,[358]
+local*,local,"[252, 250]"
+loft,loft,[357]
+lofts,lofts,[357]
+logic*,logic,"[131, 132]"
+lol,lol,"[125, 126, 462]"
+lone*,lone,"[125, 127, 130]"
+long,long,"[253, 250]"
+longe*,longe,"[253, 250]"
+longing*,longing,"[125, 127, 130]"
+longitud*,longitud,"[252, 250]"
+look,look,"[11, 14, 140, 141]"
+looked,looked,"[11, 13, 140, 141]"
+looker*,looker,"[140, 141]"
+looking,looking,"[140, 141]"
+looks,looks,"[11, 14, 140, 141]"
+loose*,loose,"[140, 143]"
+lord*,lord,[359]
+lose,lose,"[125, 127, 130, 355]"
+loser*,loser,"[125, 127, 130, 355]"
+loses,loses,"[125, 127, 130, 355]"
+losing,losing,"[125, 127, 130, 355]"
+loss*,loss,"[125, 127, 130, 355]"
+lost,lost,"[11, 13, 125, 127, 130, 355]"
+lot,lot,"[1, 20, 131, 135]"
+lotof,lotof,"[1, 20, 131, 135]"
+lots,lots,"[1, 20, 131, 135]"
+lotsa,lotsa,"[1, 20, 131, 135]"
+lotta,lotta,"[1, 20, 131, 135]"
+lotter*,lotter,[358]
+loud*,loud,"[140, 142]"
+lous*,lous,"[125, 127, 129]"
+love,love,"[11, 14, 125, 126, 146, 149]"
+loved,loved,"[11, 13, 121, 125, 126, 146]"
+lovely,lovely,"[125, 126]"
+lover*,lover,"[121, 123, 125, 126, 146, 149]"
+loves,loves,"[11, 14, 121, 125, 126, 146]"
+loveseat*,loveseat,[357]
+loving*,loving,"[121, 125, 126]"
+low*,low,"[125, 127, 130, 252, 250]"
+loyal*,loyal,"[125, 126]"
+lozenge*,lozenge,"[146, 148]"
+lsat,lsat,[354]
+ltd,ltd,[354]
+luck,luck,"[125, 126, 131, 135]"
+lucked,lucked,"[125, 126, 131, 135]"
+lucki*,lucki,"[125, 126, 131, 135]"
+luckless*,luckless,"[125, 127, 131, 135]"
+lucks,lucks,"[125, 126, 131, 135]"
+lucky,lucky,"[125, 126, 131, 135]"
+ludicrous*,ludicrous,"[125, 127, 129]"
+lump,lump,"[146, 148]"
+lunch*,lunch,"[146, 150]"
+lung*,lung,"[146, 147]"
+lust*,lust,"[146, 149]"
+lutheran*,lutheran,[359]
+lying,lying,"[125, 127, 129]"
+lymph*,lymph,"[146, 148]"
+lynch*,lynch,[360]
+ma,ma,"[121, 122]"
+ma'am,ma'am,"[121, 124]"
+mad,mad,"[125, 127, 129]"
+maddening,maddening,"[125, 127, 129]"
+madder,madder,"[125, 127, 129]"
+maddest,maddest,"[125, 127, 129]"
+made,made,"[11, 13, 131, 133]"
+madly,madly,"[125, 126]"
+magazine*,magazine,[356]
+magnific*,magnific,"[125, 126]"
+maid*,maid,[357]
+mail,mail,[121]
+mailbox,mailbox,[357]
+mailed,mailed,[121]
+mailer*,mailer,[121]
+mailing,mailing,[121]
+mailroom*,mailroom,[354]
+mails,mails,[121]
+main,main,"[1, 20]"
+mainly,mainly,"[131, 135]"
+major,major,[20]
+majoring,majoring,[354]
+majority,majority,"[1, 20]"
+majors,majors,[354]
+make,make,"[11, 14, 133, 131]"
+makeout*,makeout,"[146, 149]"
+maker*,maker,"[131, 133]"
+makes,makes,"[11, 14, 131, 133]"
+making,making,"[131, 133]"
+male,male,"[121, 124]"
+males,males,"[121, 124]"
+male's,male's,"[121, 124]"
+mall,mall,[356]
+malls,malls,[356]
+mam,mam,"[121, 124]"
+mammogram,mammogram,"[146, 148]"
+man,man,"[121, 124]"
+manag*,manag,[354]
+maniac*,maniac,"[125, 127, 129]"
+manicdep*,manicdep,"[146, 148]"
+manipul*,manipul,"[131, 133]"
+man's,man's,"[121, 124]"
+manslaughter*,manslaughter,[360]
+manufact*,manufact,[354]
+many,many,"[1, 20]"
+map,map,"[252, 250]"
+mapped,mapped,"[252, 250]"
+mapping,mapping,"[252, 250]"
+maps,maps,"[252, 250]"
+marathon*,marathon,[356]
+march*,march,"[253, 250]"
+margarita*,margarita,[356]
+marginal*,marginal,"[131, 135]"
+market*,market,[354]
+marriag*,marriag,[121]
+marrie*,marrie,"[121, 122]"
+martini*,martini,[356]
+ma's,ma's,"[121, 122]"
+masochis*,masochis,"[125, 127]"
+mass,mass,"[252, 250]"
+massacre*,massacre,[360]
+master,master,[355]
+mastercard*,mastercard,[358]
+mastered,mastered,[355]
+masterful*,masterful,[355]
+mastering,mastering,[355]
+mastermind*,mastermind,[355]
+masters,masters,"[355, 354]"
+mastery,mastery,[355]
+mate,mate,"[121, 123]"
+mates,mates,"[121, 123]"
+mate's,mate's,"[121, 123]"
+math*,math,[354]
+mating,mating,[121]
+matter*,matter,[131]
+mattress*,mattress,[357]
+mausoleum*,mausoleum,[360]
+may,may,"[11, 1, 12, 15, 131, 135]"
+maybe,maybe,"[1, 16, 131, 135]"
+mcat,mcat,[354]
+mda,mda,[354]
+me,me,"[1, 2, 3, 4]"
+meal*,meal,"[146, 150]"
+mean,mean,"[11, 14, 131, 132]"
+meaning*,meaning,"[131, 132]"
+means,means,"[11, 14, 131, 132]"
+meant,meant,"[11, 13, 131, 132]"
+meantime,meantime,"[253, 250]"
+meanwhile,meanwhile,"[253, 250]"
+mecca,mecca,[359]
+medal*,medal,[355]
+medic*,medic,"[146, 148]"
+mediocr*,mediocr,[355]
+meditat*,meditat,"[356, 359]"
+meet,meet,[121]
+meeting*,meeting,"[121, 354]"
+meets,meets,[121]
+melanchol*,melanchol,"[125, 127, 130]"
+members,members,"[121, 124]"
+memo,memo,[354]
+memor*,memor,"[131, 132]"
+memos,memos,[354]
+men,men,"[121, 124]"
+men'*,men',"[121, 124]"
+menial,menial,[354]
+mention*,mention,[121]
+mentor*,mentor,[354]
+merchant*,merchant,[358]
+mercif*,mercif,[359]
+mercy,mercy,[359]
+merger*,merger,[354]
+merit*,merit,"[125, 126]"
+merr*,merr,"[125, 126]"
+mess,mess,"[125, 127]"
+messag*,messag,[121]
+messy,messy,"[125, 127]"
+met,met,"[11, 13, 121]"
+meter*,meter,"[252, 250]"
+methodis*,methodis,[359]
+metre*,metre,"[252, 250]"
+mfg,mfg,[354]
+mfr,mfr,[354]
+mgmt,mgmt,[354]
+mgr,mgr,[354]
+microwave*,microwave,[357]
+mid,mid,"[252, 250]"
+middl*,middl,"[252, 250]"
+midterm*,midterm,[354]
+might,might,"[11, 1, 12, 15, 131, 135]"
+mightve,mightve,"[11, 1, 12, 131, 135]"
+might've,might've,"[11, 1, 12, 131, 135]"
+migrain*,migrain,"[146, 148]"
+mile*,mile,"[252, 250]"
+milk*,milk,"[146, 150]"
+million*,million,"[1, 21]"
+min,min,"[253, 250]"
+mind,mind,[131]
+mine,mine,"[1, 2, 3, 4]"
+minesweeper,minesweeper,[356]
+minister*,minister,[359]
+ministr*,ministr,[359]
+mint*,mint,[140]
+minute*,minute,"[253, 250]"
+miscar*,miscar,"[146, 148]"
+miser*,miser,"[125, 127, 128, 130]"
+misle*,misle,"[131, 133]"
+miss,miss,"[11, 14, 125, 127, 130]"
+missed,missed,"[11, 13, 125, 127, 130]"
+misses,misses,"[11, 14, 125, 127, 130]"
+missing,missing,"[125, 127, 130]"
+missionar*,missionar,[359]
+mistak*,mistak,"[125, 127, 131, 134]"
+misunder*,misunder,"[131, 132]"
+mitzvah*,mitzvah,[359]
+mm*,mm,[462]
+mob,mob,[121]
+mobb*,mobb,[121]
+mobs,mobs,[121]
+mock,mock,"[125, 127, 129]"
+mocked,mocked,"[125, 127, 129]"
+mocker*,mocker,"[125, 127, 129]"
+mocking,mocking,"[125, 127, 129]"
+mocks,mocks,"[125, 127, 129]"
+modern*,modern,"[253, 250]"
+mofo,mofo,[22]
+mohamm*,mohamm,[359]
+molest*,molest,"[125, 127, 129]"
+mom,mom,"[121, 122]"
+moment*,moment,"[253, 250]"
+momma*,momma,"[121, 122]"
+mommy*,mommy,"[121, 122]"
+moms,moms,"[121, 122]"
+mom's,mom's,"[121, 122]"
+monast*,monast,[359]
+monday*,monday,"[253, 250]"
+money*,money,[358]
+monk*,monk,[359]
+mono,mono,"[146, 148]"
+monopol*,monopol,[358]
+month*,month,"[253, 250]"
+mooch*,mooch,"[125, 127]"
+mood,mood,[125]
+moodi*,moodi,"[125, 127]"
+moods,moods,[125]
+moody,moody,"[125, 127]"
+mop,mop,[357]
+moral,moral,[359]
+morality,morality,[359]
+morals,morals,[359]
+more,more,"[1, 20]"
+morgue*,morgue,[360]
+mormon*,mormon,[359]
+morning*,morning,"[253, 250]"
+moron*,moron,"[125, 127, 129]"
+mortal*,mortal,[360]
+mortg*,mortg,"[357, 358]"
+mortician*,mortician,[360]
+mosque*,mosque,[359]
+most,most,"[1, 20, 131, 135]"
+mostly,mostly,"[1, 16, 131, 135]"
+motel*,motel,[356]
+mother,mother,"[121, 122]"
+motherf*,motherf,[22]
+motherly,motherly,[121]
+mothers,mothers,"[121, 122]"
+motion*,motion,"[251, 250]"
+motiv*,motiv,"[131, 132, 133, 354, 355]"
+mourn*,mourn,"[125, 127, 130, 360]"
+mouth*,mouth,"[146, 147]"
+move,move,"[251, 250]"
+moved,moved,"[11, 13, 251, 250]"
+movement*,movement,"[251, 250]"
+mover*,mover,"[251, 250]"
+moves,moves,"[251, 250]"
+movie*,movie,[356]
+moving,moving,"[251, 250]"
+mr,mr,"[121, 124]"
+mri,mri,"[146, 148]"
+mrs,mrs,"[121, 124]"
+mtv*,mtv,[356]
+much,much,"[1, 20]"
+mucho,mucho,"[1, 20]"
+mucous*,mucous,"[146, 147]"
+muhamm*,muhamm,[359]
+mujahid*,mujahid,[359]
+mum,mum,"[121, 122]"
+mummy*,mummy,"[121, 122]"
+mums,mums,"[121, 122]"
+mum's,mum's,"[121, 122]"
+murder*,murder,"[125, 127, 129, 360]"
+muscle*,muscle,"[146, 147]"
+muscular,muscular,"[146, 147]"
+museum*,museum,[356]
+musi*,musi,"[356, 359, 140, 142]"
+must,must,"[11, 1, 12, 15, 131, 134]"
+mustnt,mustnt,"[11, 1, 12, 15, 19, 131]"
+must'nt,must'nt,"[11, 1, 12, 15, 19, 131]"
+mustn't,mustn't,"[11, 1, 12, 15, 19, 131]"
+mustve,mustve,"[11, 1, 12, 13, 15, 131]"
+must've,must've,"[11, 1, 12, 13, 15, 131]"
+my,my,"[1, 2, 3, 4]"
+myopi*,myopi,"[146, 148]"
+myself,myself,"[1, 2, 3, 4]"
+myster*,myster,"[131, 135]"
+nag*,nag,"[125, 127, 129]"
+naked,naked,"[146, 147, 149]"
+name,name,"[121, 131]"
+nap,nap,[356]
+naps,naps,[356]
+narrow*,narrow,"[252, 250]"
+nasal,nasal,"[146, 147, 140]"
+nast*,nast,"[125, 127, 129]"
+nation*,nation,"[250, 252]"
+nause*,nause,"[146, 148]"
+near,near,"[1, 17, 252, 250]"
+neared,neared,"[252, 250]"
+nearer,nearer,"[252, 250]"
+nearest,nearest,"[252, 250]"
+nearing,nearing,"[252, 250]"
+nearly,nearly,"[1, 16, 131, 135]"
+nears,nears,"[252, 250]"
+nearsighted,nearsighted,"[146, 148]"
+neat*,neat,"[125, 126]"
+necessar*,necessar,"[131, 136]"
+neck,neck,"[146, 147]"
+need,need,"[11, 14, 131, 134]"
+needed,needed,"[11, 13, 131, 134]"
+needing,needing,"[131, 134]"
+neednt,neednt,"[1, 19, 131, 134]"
+need'nt,need'nt,"[1, 19, 131, 134]"
+needn't,needn't,"[1, 19, 131, 134]"
+needs,needs,"[11, 14, 131, 134]"
+needy,needy,"[125, 127]"
+negat*,negat,"[1, 19]"
+neglect*,neglect,"[125, 127, 130, 131, 137]"
+negotiat*,negotiat,"[121, 354]"
+neighbor*,neighbor,"[121, 123, 357]"
+neighbour*,neighbour,"[121, 123]"
+neither,neither,"[1, 19, 20]"
+nephew*,nephew,"[121, 122]"
+nerd*,nerd,"[125, 127]"
+nerve*,nerve,"[146, 147]"
+nervous*,nervous,"[125, 127, 128]"
+netflix,netflix,[356]
+neural*,neural,"[146, 147]"
+neurolog*,neurolog,"[146, 148]"
+neuron*,neuron,"[146, 147]"
+neurotic*,neurotic,"[125, 127, 128]"
+never,never,"[1, 19, 131, 136, 253, 250]"
+new,new,"[253, 250]"
+newborn*,newborn,"[121, 124]"
+newer,newer,"[253, 250]"
+newest,newest,"[253, 250]"
+newly,newly,"[253, 250]"
+news,news,[131]
+next,next,"[253, 250]"
+ngo,ngo,[354]
+nice*,nice,"[125, 126]"
+nickel*,nickel,[358]
+niece*,niece,"[121, 122]"
+nigger*,nigger,[22]
+night,night,"[253, 250]"
+nightly,nightly,"[253, 250]"
+nights,nights,"[253, 250]"
+nine*,nine,"[1, 21]"
+nintendo*,nintendo,[356]
+nipple*,nipple,"[146, 147, 149]"
+no,no,"[1, 19]"
+nobod*,nobod,"[1, 2, 9, 19]"
+noise,noise,"[140, 142]"
+noises,noises,"[140, 142]"
+noisy,noisy,"[140, 142]"
+none,none,"[1, 19, 20]"
+nonprofit*,nonprofit,[354]
+noon*,noon,"[253, 250]"
+nope,nope,"[1, 19]"
+nor,nor,"[1, 18, 19]"
+normal,normal,"[131, 131, 134]"
+north*,north,"[252, 250]"
+nose*,nose,"[146, 147, 140]"
+nostril*,nostril,"[140, 146, 147]"
+not,not,"[1, 19, 131, 139]"
+nothing,nothing,"[1, 19]"
+notice*,notice,"[131, 132]"
+noticing,noticing,"[131, 132]"
+novel,novel,[356]
+novels,novels,[356]
+november,november,"[253, 250]"
+now,now,"[1, 16, 253, 250]"
+nowhere,nowhere,"[1, 19, 252, 250]"
+nude*,nude,"[146, 147, 149]"
+nudi*,nudi,"[146, 147]"
+numb,numb,"[125, 127, 146, 148]"
+nun,nun,[359]
+nuns,nuns,[359]
+nurse*,nurse,"[146, 148]"
+nurtur*,nurtur,"[125, 126]"
+nutrition*,nutrition,"[146, 148]"
+obedien*,obedien,"[131, 133]"
+obes*,obes,"[146, 148, 150]"
+obey*,obey,"[131, 133]"
+obit*,obit,[360]
+obnoxious*,obnoxious,"[125, 127, 129]"
+obscur*,obscur,"[131, 135]"
+obsess*,obsess,"[125, 127, 128]"
+obstac*,obstac,"[131, 137]"
+obtain*,obtain,[355]
+obvious*,obvious,"[131, 136]"
+occasional*,occasional,"[131, 135, 253, 250]"
+occupa*,occupa,[354]
+ocd,ocd,"[146, 148]"
+oclock*,oclock,"[253, 250]"
+o'clock*,o'clock,"[253, 250]"
+october,october,"[253, 250]"
+od,od,[360]
+oded,oded,[360]
+odor*,odor,[140]
+odour*,odour,[140]
+of,of,"[1, 17]"
+off,off,"[1, 17, 252, 250]"
+offence*,offence,"[125, 127, 129]"
+offend*,offend,"[125, 127, 129]"
+offens*,offens,"[125, 127, 129]"
+offer*,offer,[121]
+office*,office,[354]
+often,often,"[1, 16, 131, 135]"
+oh,oh,[462]
+ohwell,ohwell,[464]
+oil*,oil,[140]
+ok,ok,"[125, 126, 462]"
+okay,okay,"[125, 126, 462]"
+okays,okays,"[125, 126]"
+okey*,okey,[462]
+oks,oks,"[125, 126]"
+old,old,"[253, 250]"
+olden,olden,"[253, 250]"
+older,older,"[253, 250]"
+oldest,oldest,"[253, 250]"
+on,on,"[1, 17, 252, 250]"
+once,once,"[1, 21, 253, 250]"
+one,one,"[1, 21]"
+ones,ones,"[1, 20]"
+oneself,oneself,"[1, 2, 3, 7]"
+only,only,"[1, 16]"
+onto,onto,"[1, 17, 252, 250]"
+open,open,"[131, 138, 252, 250]"
+opened,opened,"[250, 252]"
+opening*,opening,"[252, 250]"
+openminded*,openminded,"[125, 126]"
+openness,openness,"[125, 126]"
+opera*,opera,[356]
+opinion,opinion,"[131, 135]"
+opport*,opport,"[125, 126, 355]"
+oppos*,oppos,"[131, 137]"
+optimal*,optimal,"[125, 126]"
+optimi*,optimi,"[125, 126]"
+option,option,"[131, 135]"
+optometr*,optometr,"[146, 148]"
+or,or,"[1, 18, 131, 135, 139]"
+orange*,orange,"[140, 141]"
+oranything*,oranything,[464]
+orchestra,orchestra,[356]
+order,order,[250]
+org,org,[354]
+organiz*,organiz,"[121, 131, 354, 355]"
+orgasm*,orgasm,"[146, 147, 149]"
+orgies,orgies,"[146, 149]"
+orgy,orgy,"[146, 149]"
+origin,origin,"[131, 133, 253, 250]"
+original,original,"[125, 126]"
+originat*,originat,"[131, 133, 355]"
+origins,origins,"[131, 133]"
+orsomething*,orsomething,[464]
+orthodon*,orthodon,"[146, 148]"
+orthodox*,orthodox,[359]
+orthoped*,orthoped,"[146, 148]"
+orwhatever*,orwhatever,[464]
+other,other,"[1, 2, 9]"
+others,others,"[1, 2, 9]"
+otherwise,otherwise,"[1, 18]"
+ought,ought,"[11, 1, 12, 15, 131, 134]"
+oughta,oughta,"[11, 1, 12, 15, 131, 134]"
+oughtnt,oughtnt,"[11, 1, 12, 15, 19, 131]"
+ought'nt,ought'nt,"[11, 1, 12, 15, 19, 131]"
+oughtn't,oughtn't,"[11, 1, 12, 15, 19, 131]"
+oughtve,oughtve,"[11, 1, 12, 15, 131, 134]"
+ought've,ought've,"[11, 1, 12, 15, 131, 134]"
+our,our,"[1, 2, 3, 5, 121]"
+ours,ours,"[1, 2, 3, 5, 121]"
+ourselves,ourselves,"[1, 2, 3, 5, 121]"
+out,out,"[1, 17, 131, 138, 252, 250]"
+outcome*,outcome,"[131, 133, 355]"
+outer*,outer,"[252, 250]"
+outgoing,outgoing,"[125, 126]"
+outlin*,outlin,[354]
+outrag*,outrag,"[125, 127, 129]"
+outside,outside,"[1, 17, 252, 250]"
+outsider*,outsider,[121]
+outsides,outsides,"[252, 250]"
+outsourc*,outsourc,[354]
+outstanding,outstanding,"[131, 134]"
+outward*,outward,"[252, 250]"
+ovar*,ovar,"[146, 147, 149]"
+oven*,oven,[357]
+over,over,"[1, 17, 252, 250]"
+overall,overall,"[131, 135]"
+overate,overate,"[146, 150]"
+overcome,overcome,[355]
+overconfiden*,overconfiden,[355]
+overdosed,overdosed,[360]
+overeat*,overeat,"[146, 150]"
+overflow*,overflow,"[252, 250]"
+overhear*,overhear,[121]
+overlap*,overlap,"[252, 250]"
+overpaid,overpaid,"[354, 358]"
+overtak*,overtak,[355]
+overtime,overtime,"[354, 358]"
+overweight,overweight,"[146, 148, 150]"
+overwhelm*,overwhelm,"[125, 127, 128, 130]"
+overworked,overworked,[354]
+owe,owe,"[11, 14, 358]"
+owed,owed,"[11, 13, 358]"
+owes,owes,"[11, 14, 358]"
+owing,owing,[358]
+own,own,"[1, 20]"
+owner*,owner,[121]
+pa,pa,"[121, 122]"
+pagan*,pagan,[359]
+page,page,[20]
+paid,paid,"[11, 13, 358]"
+pain,pain,"[125, 127, 146, 148]"
+pained,pained,"[125, 127, 146, 148]"
+painf*,painf,"[125, 127, 146, 148]"
+paining,paining,"[125, 127, 146, 148]"
+painl*,painl,"[125, 126, 146, 148]"
+pains,pains,"[125, 127, 146, 148]"
+pal,pal,"[121, 123]"
+palatabl*,palatabl,"[140, 125, 126]"
+pallbearer*,pallbearer,[360]
+palm,palm,"[146, 147]"
+palms,palms,"[146, 147]"
+pals,pals,"[121, 123]"
+panic*,panic,"[125, 127, 128]"
+pap,pap,"[146, 148]"
+paper*,paper,[354]
+pappy,pappy,"[121, 122]"
+paradise,paradise,"[125, 126, 359]"
+paraly*,paraly,"[146, 148]"
+paranoi*,paranoi,"[125, 127, 129]"
+parent*,parent,"[121, 122]"
+parks,parks,[356]
+part,part,"[1, 20]"
+participant*,participant,"[121, 124]"
+participat*,participat,[121]
+partie*,partie,"[121, 125, 126, 356]"
+partly,partly,"[1, 20, 131, 135]"
+partner*,partner,"[121, 123, 124]"
+party*,party,"[121, 125, 126, 356]"
+pa's,pa's,"[121, 122]"
+pass,pass,"[251, 250]"
+passed,passed,"[251, 250]"
+passes,passes,"[251, 250]"
+passing,passing,"[251, 250]"
+passion*,passion,"[125, 126, 146, 149]"
+passover,passover,[359]
+past,past,"[253, 250]"
+pasta*,pasta,"[146, 150]"
+pastor*,pastor,[359]
+pathetic*,pathetic,"[125, 127, 130]"
+patholog*,patholog,"[146, 148]"
+patio*,patio,[357]
+pay*,pay,"[354, 358]"
+pc*,pc,[354]
+peace*,peace,"[125, 126]"
+peculiar*,peculiar,"[125, 127]"
+pediatr*,pediatr,"[146, 148]"
+pee,pee,"[146, 147]"
+pelvi*,pelvi,"[146, 147]"
+pen,pen,[354]
+penance,penance,[359]
+pence,pence,[358]
+pencil*,pencil,[354]
+penis*,penis,"[146, 147, 149]"
+pennies,pennies,[358]
+penny,penny,[358]
+pens,pens,[354]
+pension*,pension,[354]
+pentecost*,pentecost,[359]
+people*,people,"[121, 124]"
+perceiv*,perceiv,"[131, 132]"
+percent,percent,[20]
+percept*,percept,"[131, 132]"
+perfect*,perfect,"[125, 126, 131, 136, 355]"
+perform*,perform,[355]
+perfum*,perfum,[140]
+perhaps,perhaps,"[1, 16, 131, 135]"
+period*,period,"[253, 250]"
+permit*,permit,"[131, 133]"
+perpetual*,perpetual,"[253, 250]"
+persever*,persever,[355]
+persist*,persist,[355]
+person,person,"[121, 124]"
+personal,personal,"[125, 121]"
+persons,persons,"[121, 124]"
+person's,person's,"[121, 124]"
+perspir*,perspir,"[146, 147]"
+persua*,persua,[121]
+perver*,perver,"[125, 127, 146, 149]"
+peso,peso,[358]
+pesos,pesos,[358]
+pessimis*,pessimis,"[125, 127, 130]"
+pet,pet,[357]
+petrif*,petrif,"[125, 127, 128]"
+pets,pets,[357]
+pettie*,pettie,"[125, 127, 129]"
+petty*,petty,"[125, 127, 129]"
+pew,pew,[359]
+pews,pews,[359]
+pharmac*,pharmac,"[146, 148]"
+phd*,phd,[354]
+phobi*,phobi,"[125, 127, 128, 146, 148]"
+phone*,phone,[121]
+phoning,phoning,[121]
+photocop*,photocop,[354]
+physical*,physical,"[146, 148]"
+physician*,physician,"[146, 148]"
+pick,pick,"[131, 133]"
+picture,picture,"[140, 141]"
+piec*,piec,"[1, 20]"
+piety,piety,[359]
+pilgrim*,pilgrim,[359]
+pill,pill,"[146, 148]"
+pillow*,pillow,[357]
+pills,pills,"[146, 148]"
+pimple*,pimple,"[146, 148]"
+pink*,pink,"[140, 141]"
+pious,pious,[359]
+piss*,piss,"[125, 127, 129, 146, 147, 22]"
+pitcher*,pitcher,[356]
+piti*,piti,"[125, 127, 130]"
+pity*,pity,"[125, 127, 130]"
+pizza*,pizza,"[146, 150]"
+place*,place,"[252, 250]"
+placing*,placing,"[252, 250]"
+plague*,plague,[360]
+plan,plan,[355]
+planned,planned,[355]
+planner*,planner,[355]
+planning,planning,[355]
+plans,plans,[355]
+platform*,platform,"[252, 250]"
+play,play,"[125, 126, 356]"
+played,played,"[11, 13, 125, 126, 356]"
+playful*,playful,"[125, 126, 356]"
+playing,playing,"[125, 126, 356]"
+plays,plays,"[125, 126, 356]"
+playstation*,playstation,[356]
+pleasant*,pleasant,"[125, 126]"
+please*,please,"[125, 126]"
+pleasing,pleasing,"[125, 126]"
+pleasur*,pleasur,"[125, 126]"
+pledg*,pledg,[354]
+plenty,plenty,"[1, 20]"
+plus,plus,"[1, 17, 18, 131, 138]"
+pms,pms,"[146, 148]"
+podiatr*,podiatr,"[146, 148]"
+poetry,poetry,[356]
+point,point,"[250, 252]"
+poison*,poison,"[125, 127, 129, 146, 148]"
+poker,poker,[356]
+police,police,[354]
+policy,policy,[354]
+political,political,[354]
+politics,politics,[354]
+ponder*,ponder,"[131, 132]"
+pool*,pool,[356]
+poop*,poop,"[146, 147]"
+poor*,poor,[358]
+pope*,pope,[359]
+popular*,popular,"[125, 126]"
+porch,porch,[357]
+porn*,porn,"[146, 149]"
+portfolio*,portfolio,[358]
+portion,portion,[20]
+position*,position,"[252, 250]"
+positiv*,positiv,"[125, 126, 131, 136]"
+possib*,possib,"[131, 135]"
+post,post,[250]
+potential*,potential,[355]
+poverty*,poverty,[358]
+power*,power,[355]
+practically,practically,"[131, 135]"
+practice,practice,"[354, 355]"
+prais*,prais,"[121, 125, 126, 355, 359]"
+pray*,pray,[359]
+preach*,preach,[359]
+preced*,preced,"[253, 250]"
+precious*,precious,"[125, 126]"
+precis*,precis,"[131, 136]"
+prefer*,prefer,"[131, 132, 134]"
+pregnan*,pregnan,"[146, 148, 149]"
+prejudic*,prejudic,"[125, 127, 129]"
+prereq*,prereq,[354]
+presbyterian*,presbyterian,[359]
+prescri*,prescri,"[146, 148]"
+present,present,"[253, 250]"
+presentation*,presentation,[354]
+presently,presently,"[253, 250]"
+presiden*,presiden,"[354, 355]"
+press,press,"[140, 143]"
+pressed,pressed,"[140, 143]"
+presser*,presser,"[140, 143]"
+presses,presses,"[140, 143]"
+pressur*,pressur,"[125, 127, 128]"
+presum*,presum,"[131, 132]"
+pretend*,pretend,[356]
+prettie*,prettie,"[125, 126]"
+pretty,pretty,"[125, 126, 131, 135]"
+prevent*,prevent,"[131, 137]"
+price*,price,[358]
+prici*,prici,[358]
+prick*,prick,"[125, 127, 129, 146, 147, 22]"
+pride,pride,"[125, 126, 355]"
+priest*,priest,[359]
+primarily,primarily,"[1, 16]"
+prior,prior,"[250, 253]"
+private,private,[121]
+privileg*,privileg,"[125, 126]"
+prize*,prize,"[125, 126, 355]"
+probable,probable,"[131, 135]"
+probablistic*,probablistic,"[131, 135]"
+probably,probably,"[1, 16, 131, 135]"
+problem*,problem,"[125, 127, 131, 134]"
+proceed*,proceed,"[253, 250]"
+procrastin*,procrastin,[354]
+produc*,produc,"[131, 133, 354, 355]"
+prof,prof,[354]
+profession*,profession,[354]
+professor*,professor,[354]
+proficien*,proficien,[355]
+profit*,profit,"[125, 126, 354, 358]"
+profs,profs,[354]
+prognos*,prognos,"[146, 148]"
+program*,program,[354]
+progress,progress,[355]
+prohib*,prohib,"[131, 137]"
+project,project,[354]
+projector*,projector,[354]
+projects,projects,[354]
+prom,prom,[354]
+promis*,promis,"[125, 126]"
+promot*,promot,"[354, 355]"
+proof,proof,"[131, 136]"
+prophe*,prophe,[359]
+prostat*,prostat,"[146, 147, 149]"
+prostitu*,prostitu,"[146, 149]"
+protect*,protect,[137]
+protest,protest,"[125, 127, 129]"
+protestant*,protestant,[359]
+protested,protested,"[125, 127, 129]"
+protesting,protesting,"[125, 127, 129]"
+proud*,proud,"[125, 126, 355]"
+prove*,prove,"[131, 132, 136]"
+provide,provide,[121]
+proving,proving,"[131, 132]"
+provoc*,provoc,"[131, 133]"
+provok*,provok,"[131, 133]"
+prozac,prozac,"[146, 148]"
+prude,prude,"[131, 137, 146, 149]"
+prudes,prudes,"[131, 137, 146, 149]"
+prudish*,prudish,"[131, 137, 146, 149]"
+psalm*,psalm,[359]
+psych,psych,[354]
+psychol*,psychol,[354]
+pub,pub,[356]
+pubic,pubic,"[146, 149]"
+public,public,[121]
+publish,publish,[354]
+pubs,pubs,[356]
+puk*,puk,"[125, 127, 146, 148]"
+pull*,pull,"[251, 250]"
+pulse,pulse,"[146, 147]"
+pungen*,pungen,[140]
+punish*,punish,"[125, 127, 129]"
+purchas*,purchas,[358]
+pure*,pure,"[131, 136]"
+purgator*,purgator,[359]
+puritan*,puritan,[359]
+purpl*,purpl,"[140, 141]"
+purpose*,purpose,"[131, 133, 355]"
+push*,push,"[16, 251, 250]"
+puss,puss,"[146, 148]"
+pussies,pussies,"[146, 147]"
+pussy*,pussy,"[146, 147, 149, 22]"
+put,put,"[250, 251]"
+puts,puts,"[250, 251]"
+putting,putting,"[250, 251]"
+puzzl*,puzzl,"[131, 135]"
+qualifi*,qualifi,[354]
+quarter*,quarter,"[1, 21]"
+queas*,queas,"[146, 148]"
+queen,queen,[355]
+queenly,queenly,[355]
+queer*,queer,"[146, 149, 22]"
+quer*,quer,"[131, 132]"
+question*,question,"[121, 131, 132, 135]"
+quick*,quick,"[1, 16, 253, 250]"
+quiet*,quiet,"[140, 142]"
+quit,quit,[355]
+quite,quite,"[131, 135]"
+quitt*,quitt,[355]
+quiz*,quiz,[354]
+quran*,quran,[359]
+qur'an*,qur'an,[359]
+rabbi,rabbi,[359]
+rabbinical,rabbinical,[359]
+rabbis,rabbis,[359]
+radian*,radian,"[125, 126]"
+radio*,radio,[356]
+rage*,rage,"[125, 127, 129]"
+raging,raging,"[125, 127, 129]"
+ramadan,ramadan,[359]
+ran,ran,"[11, 13, 251, 250]"
+rancid*,rancid,"[140, 125, 127]"
+random*,random,"[131, 135]"
+rang,rang,"[140, 142]"
+rank,rank,[355]
+ranked,ranked,[355]
+ranking,ranking,[355]
+ranks,ranks,[355]
+rap,rap,[356]
+rape*,rape,"[125, 127, 129, 146, 149]"
+raping,raping,"[125, 127, 129, 146, 149]"
+rapist*,rapist,"[125, 127, 129, 146, 149]"
+rarely,rarely,"[1, 16]"
+rash*,rash,"[146, 147]"
+rather,rather,"[1, 16, 131, 134, 139]"
+rational*,rational,"[131, 132, 133]"
+react*,react,"[131, 133]"
+read,read,"[354, 356]"
+readiness,readiness,"[125, 126]"
+reading,reading,[356]
+ready,ready,"[125, 126]"
+real,real,"[131, 136]"
+reality,reality,"[131, 136]"
+realiz*,realiz,"[131, 132]"
+really,really,"[1, 16, 131, 139]"
+reaper*,reaper,[360]
+rearrang*,rearrang,"[131, 132]"
+reason*,reason,"[131, 132, 133]"
+reassur*,reassur,"[121, 125, 126]"
+rebate*,rebate,[358]
+rebel*,rebel,"[125, 127, 129]"
+recall*,recall,"[131, 132]"
+receiv*,receiv,"[121, 250, 251]"
+recency,recency,"[253, 250]"
+recent*,recent,"[253, 250]"
+recession*,recession,[358]
+reckon*,reckon,"[131, 132]"
+recogni*,recogni,"[131, 132]"
+recollect*,recollect,"[131, 132]"
+reconcil*,reconcil,"[131, 132]"
+reconsider*,reconsider,"[131, 132]"
+reconstruct*,reconstruct,"[131, 132]"
+recording*,recording,[356]
+recover*,recover,[355]
+recreation*,recreation,[356]
+recruit*,recruit,[354]
+rectang*,rectang,"[140, 141]"
+recur*,recur,"[253, 250]"
+red,red,"[140, 141]"
+redde*,redde,"[140, 141]"
+reddish*,reddish,"[140, 141]"
+redness,redness,"[140, 141]"
+reds,reds,"[140, 141]"
+reek*,reek,"[140, 125, 127]"
+reevaluat*,reevaluat,"[131, 132]"
+refer*,refer,"[131, 132]"
+reflect*,reflect,"[131, 132]"
+refrain*,refrain,"[131, 137]"
+refund*,refund,[358]
+refus*,refus,"[121, 131, 137]"
+regardless,regardless,"[131, 134]"
+reggae,reggae,[356]
+register*,register,[354]
+registra*,registra,[354]
+regret*,regret,"[125, 127, 130, 131, 134]"
+rehab*,rehab,"[146, 148]"
+reimburs*,reimburs,[358]
+rein*,rein,"[131, 137]"
+reject*,reject,"[125, 127, 130]"
+relate*,relate,"[131, 132]"
+relating,relating,"[131, 132]"
+relation,relation,"[131, 132]"
+relationship*,relationship,[121]
+relatives,relatives,"[121, 122]"
+relax*,relax,"[125, 126, 356]"
+relief,relief,"[125, 126]"
+reliev*,reliev,"[125, 126]"
+religio*,religio,[359]
+reluctan*,reluctan,"[125, 127, 128, 131, 137]"
+remaining,remaining,"[1, 20]"
+rememb*,rememb,"[131, 132]"
+remodel*,remodel,[357]
+remorse*,remorse,"[125, 127, 130]"
+remote*,remote,"[252, 250]"
+remov*,remov,"[251, 250]"
+renovat*,renovat,[357]
+rent*,rent,"[357, 358]"
+reorgani*,reorgani,"[131, 132]"
+repeat*,repeat,"[253, 250]"
+repetit*,repetit,"[253, 250]"
+replace*,replace,"[251, 250]"
+replacing,replacing,"[251, 250]"
+replie*,replie,[121]
+reply*,reply,[121]
+report*,report,[354]
+repress*,repress,"[125, 127, 128, 131, 137]"
+request*,request,[121]
+requir*,requir,"[131, 137, 354, 355]"
+research*,research,[354]
+resent*,resent,"[125, 127, 129]"
+reserved,reserved,"[131, 137]"
+residen*,residen,[357]
+resign*,resign,"[125, 127, 130]"
+resolu*,resolu,"[131, 132]"
+resolv*,resolv,"[125, 126, 131, 132, 355]"
+resource,resource,[354]
+resourceful*,resourceful,[355]
+resources,resources,[354]
+resourcing,resourcing,[354]
+respect,respect,"[125, 126]"
+respectively,respectively,"[250, 253]"
+respond*,respond,[121]
+response*,response,"[131, 133]"
+responsib*,responsib,"[131, 137, 354, 355]"
+rest,rest,"[1, 20]"
+restau*,restau,"[146, 150, 356]"
+resting,resting,[356]
+restless*,restless,"[125, 127, 128]"
+restrain*,restrain,"[131, 137]"
+restrict*,restrict,"[131, 137]"
+restructur*,restructur,"[131, 132]"
+result*,result,"[131, 133]"
+resume,resume,[354]
+retail*,retail,[358]
+retain*,retain,"[131, 137]"
+rethink*,rethink,"[131, 132]"
+retina*,retina,"[146, 147]"
+retire*,retire,[354]
+retiring,retiring,[354]
+return*,return,"[253, 250]"
+reveal*,reveal,"[131, 132]"
+revelat*,revelat,"[131, 132]"
+revenge*,revenge,"[125, 127, 129]"
+revenue*,revenue,[358]
+review*,review,[354]
+revigor*,revigor,"[125, 126]"
+reward*,reward,"[125, 126, 355]"
+rhetor*,rhetor,[354]
+rhythm*,rhythm,"[253, 250]"
+rib,rib,"[146, 147]"
+ribs,ribs,"[146, 147]"
+rich*,rich,"[125, 126, 358]"
+ridden,ridden,"[251, 250]"
+ride,ride,"[251, 250]"
+rides,rides,"[251, 250]"
+ridicul*,ridicul,"[125, 127, 129]"
+riding,riding,"[251, 250]"
+right,right,"[250, 252]"
+rigid*,rigid,"[125, 127, 128, 131, 137]"
+ring,ring,"[140, 142]"
+ringing,ringing,"[140, 142]"
+rings,rings,"[140, 142]"
+rise*,rise,"[251, 250]"
+rising,rising,"[251, 250]"
+risk*,risk,"[125, 127, 128]"
+ritalin,ritalin,"[146, 148]"
+rite,rite,[359]
+rites,rites,[359]
+ritual*,ritual,[359]
+road*,road,"[252, 250]"
+rock,rock,[356]
+rocks,rocks,[356]
+rode,rode,"[251, 250]"
+rofl,rofl,"[125, 126, 462]"
+role*,role,[121]
+roller*,roller,[356]
+romanc*,romanc,"[125, 126]"
+romantic*,romantic,"[125, 126]"
+room,room,"[252, 250, 357]"
+roomate*,roomate,"[121, 123, 252, 250, 357]"
+roomed,roomed,"[121, 252, 250, 357]"
+roomie*,roomie,"[121, 123, 252, 250, 357]"
+rooming,rooming,"[121, 252, 250, 357]"
+roommate*,roommate,"[121, 123, 252, 250, 357]"
+rooms,rooms,"[252, 250, 357]"
+root*,root,"[131, 133]"
+rosaries,rosaries,[359]
+rosary,rosary,[359]
+roshashan*,roshashan,[359]
+rotten,rotten,"[140, 125, 127]"
+rough*,rough,"[140, 143]"
+round*,round,"[140, 141, 143]"
+rowing,rowing,[356]
+rr*,rr,[464]
+rub,rub,"[140, 143]"
+rubbed,rubbed,"[140, 143]"
+rubbing,rubbing,"[140, 143]"
+ruble*,ruble,[358]
+rubs,rubs,"[140, 143]"
+rude*,rude,"[125, 127, 129]"
+rug,rug,[357]
+rugby*,rugby,[356]
+rugs,rugs,[357]
+ruin*,ruin,"[125, 127, 130]"
+rum,rum,[356]
+rumor*,rumor,[121]
+rumour*,rumour,[121]
+run,run,"[251, 250]"
+runner*,runner,"[251, 250, 356]"
+running,running,"[251, 250, 356]"
+runs,runs,"[251, 250]"
+rupee*,rupee,[358]
+rush*,rush,"[251, 250]"
+rx,rx,"[146, 148]"
+sabbath*,sabbath,[359]
+saccharine,saccharine,[140]
+sacred,sacred,[359]
+sacrific*,sacrific,[359]
+sad,sad,"[125, 127, 130]"
+sadde*,sadde,"[125, 127, 130]"
+sadly,sadly,"[125, 127, 130]"
+sadness,sadness,"[125, 127, 130]"
+safe*,safe,"[125, 126, 131, 137]"
+said,said,"[11, 13, 121, 140, 142]"
+saint*,saint,[359]
+salad*,salad,"[146, 150]"
+salar*,salar,"[354, 358]"
+sale,sale,[358]
+sales,sales,[358]
+saliv*,saliv,"[146, 147, 140]"
+salsa,salsa,[356]
+salt*,salt,[140]
+salvation,salvation,[359]
+same,same,"[131, 1, 20]"
+sampl*,sampl,[140]
+sand,sand,"[140, 143]"
+sands,sands,"[140, 143]"
+sandwich*,sandwich,"[146, 150]"
+sandy,sandy,"[140, 143]"
+sang,sang,"[356, 140, 142]"
+sarcas*,sarcas,"[125, 127, 129]"
+sat,sat,"[11, 13]"
+satan*,satan,[359]
+satisf*,satisf,"[125, 126]"
+saturday*,saturday,"[253, 250]"
+savage*,savage,"[125, 127, 129]"
+save,save,"[125, 126, 131, 137]"
+saving*,saving,[358]
+savor*,savor,[140]
+savour*,savour,[140]
+saw,saw,"[11, 13, 140, 141]"
+say*,say,"[121, 140, 142]"
+scab*,scab,"[146, 148]"
+scalp,scalp,"[146, 147]"
+scan,scan,"[140, 141]"
+scann*,scann,"[140, 141]"
+scans,scans,"[140, 141]"
+scare*,scare,"[125, 127, 128]"
+scaring,scaring,"[125, 127, 128]"
+scary,scary,"[125, 127, 128]"
+scent*,scent,[140]
+sceptic*,sceptic,"[125, 127, 129]"
+schedul*,schedul,"[253, 250]"
+schizophren*,schizophren,"[146, 148]"
+scholar,scholar,[354]
+scholaring,scholaring,[354]
+scholarly,scholarly,[354]
+scholars,scholars,[354]
+scholarship*,scholarship,"[354, 358]"
+scholastic*,scholastic,[354]
+school*,school,[354]
+scien*,scien,[354]
+scrabble,scrabble,[356]
+scrapbook*,scrapbook,[356]
+scrape*,scrape,"[146, 148]"
+scratch*,scratch,"[140, 143]"
+scream*,scream,"[125, 127, 140, 142]"
+screen,screen,"[140, 141]"
+screw*,screw,"[125, 127, 129, 146, 149, 22]"
+scriptur*,scriptur,[359]
+scrumptious*,scrumptious,"[140, 125, 126]"
+sculpt*,sculpt,[356]
+season*,season,"[253, 250]"
+second,second,"[1, 21]"
+seconds,seconds,"[253, 250]"
+secret,secret,"[121, 131, 132]"
+secretar*,secretar,[354]
+secretive*,secretive,[121]
+secrets,secrets,"[121, 131, 132]"
+sect,sect,[359]
+sectarian,sectarian,[359]
+section,section,"[250, 252, 1, 20]"
+sector*,sector,[354]
+sects,sects,[359]
+secur*,secur,"[125, 126, 137]"
+seduc*,seduc,"[146, 149]"
+see,see,"[11, 14, 140, 141]"
+seeing,seeing,"[140, 141]"
+seem,seem,"[11, 14, 131, 132, 135]"
+seemed,seemed,"[11, 13, 131, 132, 135]"
+seeming*,seeming,"[131, 132, 135]"
+seems,seems,"[11, 14, 131, 132, 135]"
+seen,seen,"[11, 13, 140, 141]"
+seer,seer,"[140, 141]"
+sees,sees,"[11, 14, 140, 141]"
+segment,segment,"[250, 252, 20]"
+seizure*,seizure,"[146, 148]"
+selection,selection,[20]
+self,self,"[121, 124]"
+selfish*,selfish,"[125, 127]"
+sell,sell,[358]
+seller*,seller,[358]
+selling,selling,[358]
+sells,sells,[358]
+semester*,semester,[354]
+seminar*,seminar,[359]
+send*,send,"[121, 250, 251]"
+senior*,senior,"[253, 250, 354]"
+sensation,sensation,"[146, 147]"
+sensations,sensations,"[146, 147]"
+sense,sense,"[131, 132]"
+sensed,sensed,"[11, 13, 131, 132]"
+senses,senses,"[131, 132]"
+sensing,sensing,"[131, 132]"
+sent,sent,"[121, 250, 251, 11, 13]"
+sentimental*,sentimental,"[125, 126]"
+separat*,separat,"[250, 252]"
+september*,september,"[253, 250]"
+sequen*,sequen,"[253, 250]"
+series,series,[20]
+serious,serious,"[125, 127]"
+seriously,seriously,"[1, 16, 125, 127]"
+seriousness,seriousness,"[125, 127]"
+servic*,servic,[354]
+servings,servings,"[146, 150]"
+session*,session,[354]
+set,set,[250]
+seven*,seven,"[1, 21]"
+several,several,"[1, 20]"
+severe*,severe,"[125, 127]"
+sex*,sex,"[146, 149]"
+shake*,shake,"[125, 127, 128, 251, 250]"
+shaki*,shaki,"[125, 127, 128, 131, 135]"
+shaky,shaky,"[125, 127, 128, 131, 135]"
+shall,shall,"[11, 1, 12, 15]"
+shame*,shame,"[125, 127, 128]"
+shant,shant,"[11, 1, 12, 19]"
+shan't,shan't,"[11, 1, 12, 19]"
+shape*,shape,"[252, 250]"
+shaping*,shaping,"[252, 250]"
+share,share,"[121, 125, 126]"
+shared,shared,"[11, 13, 121, 125, 126]"
+shares,shares,"[121, 125, 126]"
+sharing,sharing,"[121, 125, 126]"
+sharp*,sharp,"[140, 143]"
+she,she,"[1, 2, 3, 7, 121]"
+she'd,she'd,"[1, 2, 3, 7, 11, 12]"
+she'll,she'll,"[1, 2, 3, 7, 11, 12]"
+shes,shes,"[1, 2, 3, 7, 11, 12]"
+she's,she's,"[1, 2, 3, 7, 11, 12]"
+shi'*,shi',[359]
+shiite*,shiite,[359]
+shilling*,shilling,[358]
+shine,shine,"[140, 141]"
+shini*,shini,"[140, 141]"
+shiny,shiny,"[140, 141]"
+shirt*,shirt,"[146, 147]"
+shit*,shit,"[125, 127, 129, 146, 147, 22]"
+shock*,shock,"[125, 127]"
+shoe*,shoe,"[146, 147]"
+shook,shook,"[125, 127, 128, 251, 250]"
+shop,shop,"[356, 358]"
+shopaholic*,shopaholic,"[356, 358]"
+shopp*,shopp,"[356, 358]"
+shops,shops,"[356, 358]"
+short*,short,"[252, 250]"
+should,should,"[11, 1, 12, 15, 131, 134]"
+shoulder*,shoulder,"[146, 147]"
+shouldnt,shouldnt,"[11, 1, 12, 15, 19, 131]"
+should'nt,should'nt,"[11, 1, 12, 15, 19, 131]"
+shouldn't,shouldn't,"[11, 1, 12, 15, 19, 131]"
+shoulds,shoulds,"[131, 134]"
+shouldve,shouldve,"[11, 1, 12, 13, 15, 131]"
+should've,should've,"[11, 1, 12, 13, 15, 131]"
+shout*,shout,"[140, 142]"
+show,show,[356]
+showed,showed,"[11, 13]"
+shower*,shower,[357]
+shows,shows,[356]
+shrine*,shrine,[359]
+shut,shut,"[250, 252]"
+shy*,shy,"[125, 127, 128]"
+sick,sick,"[146, 148]"
+sickday*,sickday,"[354, 146, 148]"
+sicken*,sicken,"[125, 127, 128]"
+sicker,sicker,"[146, 148]"
+sickest,sickest,"[146, 148]"
+sickleave*,sickleave,"[354, 146, 148]"
+sickly,sickly,"[146, 148]"
+sickness*,sickness,"[146, 148]"
+side,side,"[252, 250]"
+sides,sides,"[252, 250]"
+siding,siding,"[252, 250]"
+sigh,sigh,"[463, 125]"
+sighed,sighed,[125]
+sighing,sighing,[125]
+sighs,sighs,[125]
+sight*,sight,"[140, 141]"
+sign,sign,[131]
+significant,significant,[20]
+sikh*,sikh,[359]
+silen*,silen,"[140, 142]"
+silk*,silk,"[140, 143]"
+silli*,silli,"[125, 126]"
+silly,silly,"[125, 126]"
+simple*,simple,[20]
+simply,simply,[16]
+simultaneous*,simultaneous,"[253, 250]"
+sin,sin,"[125, 127, 359]"
+since,since,"[1, 17, 131, 133]"
+sincer*,sincer,"[125, 126]"
+sing,sing,[356]
+singing,singing,[356]
+singl*,singl,"[1, 20]"
+sings,sings,[356]
+sinister,sinister,"[125, 127, 129]"
+sinn*,sinn,[359]
+sins,sins,"[125, 127, 359]"
+sinus*,sinus,"[146, 148]"
+sir,sir,"[121, 124]"
+sis,sis,"[121, 122]"
+sister*,sister,"[121, 122]"
+sit,sit,[250]
+site,site,"[250, 252]"
+sitting,sitting,[250]
+six*,six,"[1, 21]"
+skat*,skat,[356]
+skelet*,skelet,"[146, 147]"
+skeptic*,skeptic,"[125, 127, 129]"
+ski,ski,[356]
+skied,skied,[356]
+skier*,skier,[356]
+skiing,skiing,[356]
+skill,skill,[355]
+skilled,skilled,[355]
+skills,skills,[355]
+skin,skin,"[140, 143, 146, 147]"
+skin'*,skin',"[140, 143, 146, 147]"
+skinni*,skinni,"[146, 147, 150]"
+skinny*,skinny,"[146, 150]"
+skis,skis,[356]
+skull,skull,"[146, 147]"
+sky*,sky,"[252, 250]"
+slaughter*,slaughter,[360]
+sleep*,sleep,"[146, 147]"
+slender*,slender,"[146, 147]"
+slept,slept,"[146, 147, 11, 13]"
+slid,slid,"[251, 250]"
+slide,slide,"[251, 250]"
+slides,slides,"[251, 250]"
+sliding,sliding,"[251, 250]"
+slow*,slow,"[253, 250]"
+slut*,slut,"[125, 127, 146, 149]"
+small*,small,"[252, 250]"
+smart*,smart,"[125, 126]"
+smell*,smell,[140]
+smil*,smil,"[125, 126]"
+smok*,smok,"[146, 150]"
+smooth*,smooth,"[140, 143]"
+smother*,smother,"[125, 127, 129]"
+smug*,smug,"[125, 127]"
+snack*,snack,"[146, 150]"
+sniff*,sniff,[140]
+snob*,snob,"[125, 127, 129]"
+snort*,snort,[140]
+so,so,"[1, 16, 18]"
+soaps,soaps,[356]
+sob,sob,"[125, 127, 130, 22]"
+sobbed,sobbed,"[125, 127, 130]"
+sobbing,sobbing,"[125, 127, 130]"
+sobs,sobs,"[125, 127, 130]"
+soccer*,soccer,[356]
+sociab*,sociab,"[125, 126]"
+social*,social,[121]
+societ*,societ,"[121, 121, 124]"
+soda*,soda,"[146, 150]"
+sofa*,sofa,[357]
+soft*,soft,"[140, 143]"
+sold,sold,"[11, 13, 358]"
+solemn*,solemn,"[125, 127, 130]"
+solitaire,solitaire,[356]
+solution*,solution,"[131, 132, 133, 355]"
+solve,solve,"[131, 132, 133, 355]"
+solved,solved,"[131, 133, 355, 132]"
+solves,solves,"[131, 132, 133, 355]"
+solving,solving,"[131, 132, 133, 355]"
+some,some,"[1, 20, 131, 135]"
+somebod*,somebod,"[1, 2, 9, 121, 131, 135]"
+somehow,somehow,"[1, 16, 131, 135]"
+someone*,someone,"[1, 2, 9, 121, 131, 135]"
+something*,something,"[1, 2, 9, 131, 135, 139]"
+sometime,sometime,"[131, 135, 139, 253, 250]"
+sometimes,sometimes,"[131, 135, 253, 250]"
+somewhat,somewhat,"[131, 135, 1, 20]"
+somewhere,somewhere,"[250, 252, 1, 2, 9, 131]"
+son,son,"[121, 122]"
+song*,song,"[356, 140, 142]"
+sonofa*,sonofa,[22]
+sons,sons,"[121, 122]"
+son's,son's,"[121, 122]"
+soon,soon,"[1, 16, 253, 250]"
+soone*,soone,"[253, 250]"
+sooo*,sooo,"[1, 16]"
+sophom*,sophom,[354]
+sore*,sore,"[146, 148]"
+sororit*,sororit,[354]
+sorrow*,sorrow,"[125, 127, 130]"
+sorry,sorry,"[125, 127]"
+sort,sort,"[131, 135]"
+sorta,sorta,"[131, 135]"
+sortof,sortof,"[131, 135]"
+sorts,sorts,"[131, 135]"
+sortsa,sortsa,"[131, 135]"
+soul,soul,[359]
+soulmate*,soulmate,"[121, 123, 125, 126]"
+souls,souls,[359]
+sound*,sound,"[140, 142]"
+sour,sour,[140]
+source*,source,"[131, 133]"
+soure*,soure,[140]
+souri*,souri,[140]
+sours,sours,[140]
+soury,soury,[140]
+south*,south,"[252, 250]"
+spa,spa,[356]
+space,space,"[252, 250]"
+spaced,spaced,"[252, 250]"
+spaces,spaces,"[252, 250]"
+spaci*,spaci,"[252, 250]"
+span,span,"[252, 250]"
+spann*,spann,"[252, 250]"
+spas,spas,[356]
+spat,spat,"[146, 147]"
+speak,speak,"[121, 140, 142]"
+speaker*,speaker,"[140, 142]"
+speaking,speaking,"[121, 140, 142]"
+speaks,speaks,"[121, 140, 142]"
+special,special,"[125, 126]"
+sped,sped,"[253, 250]"
+speech*,speech,"[140, 142]"
+speed*,speed,"[253, 250]"
+spend,spend,[358]
+spender,spender,[358]
+spending,spending,[358]
+spends,spends,[358]
+spent,spent,"[11, 13, 358]"
+spice,spice,[140]
+spiced,spiced,[140]
+spices,spices,[140]
+spicy,spicy,[140]
+spinal,spinal,"[146, 147]"
+spine,spine,"[146, 147]"
+spirit*,spirit,[359]
+spit,spit,"[146, 147]"
+spite*,spite,"[125, 127, 129]"
+spits,spits,"[146, 147]"
+spitting,spitting,"[146, 147]"
+splend*,splend,"[125, 126]"
+spoke*,spoke,"[11, 13, 121, 140, 142]"
+sport*,sport,[356]
+spose,spose,"[131, 135]"
+spous*,spous,"[121, 122]"
+spring,spring,"[253, 250]"
+squar*,squar,"[140, 141]"
+squeez*,squeez,"[140, 143]"
+staff*,staff,[354]
+stage,stage,[250]
+stair*,stair,"[250, 252]"
+stammer*,stammer,"[125, 127]"
+stand,stand,[250]
+standard,standard,[131]
+standup,standup,[356]
+stank,stank,"[140, 125, 127]"
+stapl*,stapl,[354]
+stare*,stare,"[140, 141]"
+staring,staring,"[140, 141]"
+start,start,"[11, 14, 253, 250]"
+started,started,"[11, 13, 253, 250]"
+starter*,starter,"[253, 250]"
+starting,starting,"[253, 250]"
+startl*,startl,"[125, 127, 128]"
+starts,starts,"[11, 14, 253, 250]"
+startup*,startup,"[253, 250]"
+starve*,starve,"[146, 150]"
+starving,starving,"[146, 150]"
+state,state,[250]
+statement*,statement,"[131, 132]"
+stay*,stay,[250]
+stayed,stayed,"[11, 13]"
+std*,std,"[146, 148, 149]"
+steal*,steal,"[125, 127]"
+stench*,stench,"[140, 125, 127]"
+step,step,"[251, 250]"
+stepchild*,stepchild,"[121, 122]"
+stepfat*,stepfat,"[121, 122]"
+stepkid*,stepkid,"[121, 122]"
+stepmot*,stepmot,"[121, 122]"
+stepp*,stepp,"[251, 250]"
+steps,steps,"[251, 250]"
+stereo,stereo,[356]
+stereos,stereos,[356]
+stiff*,stiff,"[131, 137, 146, 148]"
+still,still,"[1, 16, 253, 250]"
+stimul*,stimul,"[131, 133]"
+stink*,stink,"[140, 125, 127]"
+stipend*,stipend,"[354, 358]"
+stock,stock,[354]
+stocked,stocked,[354]
+stocker,stocker,[354]
+stocks,stocks,"[354, 358]"
+stomach*,stomach,"[146, 147]"
+stoned,stoned,[356]
+stood,stood,"[11, 13]"
+stop,stop,"[131, 137, 253, 250]"
+stopped,stopped,"[11, 13, 131, 137, 253, 250]"
+stopper*,stopper,"[131, 137, 251, 250, 253, 250]"
+stopping,stopping,"[131, 137, 253, 250]"
+stops,stops,"[131, 137, 253, 250]"
+store,store,[358]
+stories,stories,"[121, 131]"
+story,story,"[121, 131]"
+stove*,stove,[357]
+straight,straight,"[250, 252]"
+strain*,strain,"[125, 127, 128]"
+strange,strange,"[125, 127]"
+strateg*,strateg,[355]
+street*,street,"[252, 250]"
+strength*,strength,"[125, 126, 355]"
+strept*,strept,"[146, 148]"
+stress*,stress,"[125, 127, 128]"
+stretch*,stretch,"[252, 250]"
+striv*,striv,[355]
+stroke*,stroke,"[146, 148, 140, 143]"
+stroki*,stroki,"[140, 143]"
+strong*,strong,"[125, 126, 355]"
+struggl*,struggl,"[125, 127, 128]"
+stubborn*,stubborn,"[125, 127, 129, 131, 137]"
+stuck,stuck,"[11, 13]"
+stud,stud,"[146, 149]"
+student*,student,[354]
+studied,studied,"[11, 13, 354]"
+studies,studies,[354]
+studio,studio,[357]
+studios,studios,[357]
+studious,studious,[354]
+study*,study,[354]
+stuff,stuff,"[1, 2, 9]"
+stuffed,stuffed,"[146, 150]"
+stunk,stunk,"[140, 125, 127]"
+stunned,stunned,"[125, 127, 128]"
+stuns,stuns,"[125, 127, 128]"
+stupid*,stupid,"[125, 127, 129]"
+stutter*,stutter,"[125, 127]"
+subdue*,subdue,"[131, 137]"
+submissive*,submissive,"[125, 127]"
+subsequen*,subsequen,"[253, 250]"
+succeed*,succeed,"[125, 126, 354, 355]"
+success*,success,"[125, 126, 354, 355]"
+such,such,"[1, 16]"
+suck,suck,"[11, 14, 125, 127, 129, 22]"
+sucked,sucked,"[11, 13, 125, 127, 129, 22]"
+sucker*,sucker,"[125, 127, 129]"
+sucks,sucks,"[11, 14, 125, 127, 129, 22]"
+sucky,sucky,"[125, 127, 129]"
+sudden*,sudden,"[253, 250]"
+suffer,suffer,"[125, 127, 130]"
+suffered,suffered,"[11, 13, 125, 127, 130]"
+sufferer*,sufferer,"[125, 127, 130]"
+suffering,suffering,"[125, 127, 130]"
+suffers,suffers,"[125, 127, 130]"
+sugar*,sugar,"[146, 150, 140]"
+suggest*,suggest,[121]
+suicid*,suicid,[360]
+summer*,summer,"[253, 250]"
+sumptuous*,sumptuous,[140]
+sunbath*,sunbath,[356]
+sunburn*,sunburn,"[146, 148]"
+sunday*,sunday,"[253, 250]"
+sunli*,sunli,"[140, 141]"
+sunni,sunni,[359]
+sunnier,sunnier,"[125, 126]"
+sunniest,sunniest,"[125, 126]"
+sunnis,sunnis,[359]
+sunny,sunny,"[125, 126]"
+sunshin*,sunshin,"[125, 126, 140, 141]"
+super,super,"[125, 126, 355]"
+superb*,superb,[355]
+superior*,superior,"[125, 126]"
+supervis*,supervis,[354]
+supper*,supper,"[146, 150]"
+support,support,"[11, 14, 125, 126]"
+supported,supported,"[11, 13, 125, 126]"
+supporter*,supporter,"[125, 126]"
+supporting,supporting,"[125, 126]"
+supportive*,supportive,"[125, 126]"
+supports,supports,"[11, 14, 125, 126]"
+suppose,suppose,"[11, 14, 131, 135]"
+supposed,supposed,"[11, 13, 131, 135]"
+supposes,supposes,"[11, 14, 131, 135]"
+supposing,supposing,"[131, 135]"
+supposition*,supposition,"[131, 135]"
+suppress*,suppress,"[131, 137]"
+suprem*,suprem,"[125, 126]"
+sure*,sure,"[125, 126, 131, 136]"
+surfac*,surfac,"[252, 250]"
+surgeon*,surgeon,"[146, 148]"
+surger*,surger,"[146, 148]"
+surpris*,surpris,"[125, 126]"
+surround*,surround,"[252, 250]"
+surviv*,surviv,[355]
+suspect*,suspect,"[131, 132]"
+suspicio*,suspicio,"[125, 127, 128, 131, 132]"
+swallow*,swallow,"[146, 150]"
+swam,swam,"[251, 250]"
+sweat*,sweat,"[146, 147]"
+sweep*,sweep,[357]
+sweet,sweet,"[125, 126, 140]"
+sweetheart*,sweetheart,"[121, 123, 125, 126]"
+sweetie*,sweetie,"[121, 123, 125, 126]"
+sweetly,sweetly,"[125, 126]"
+sweetness*,sweetness,"[140, 125, 126]"
+sweets,sweets,"[140, 125, 126]"
+swelling,swelling,"[146, 148]"
+swim*,swim,"[251, 250, 356]"
+swollen,swollen,"[146, 148]"
+syllabus*,syllabus,[354]
+symphon*,symphon,[356]
+symptom*,symptom,"[146, 148]"
+synch*,synch,"[253, 250]"
+syndrome*,syndrome,"[146, 148]"
+syphili*,syphili,"[146, 148, 149]"
+system*,system,[250]
+taboo*,taboo,"[131, 137]"
+take,take,"[11, 14]"
+taken,taken,"[11, 13]"
+takes,takes,"[11, 14]"
+taking,taking,"[11, 14]"
+talent*,talent,"[125, 126]"
+talk,talk,[121]
+talkative*,talkative,[121]
+talked,talked,"[11, 13, 121]"
+talker*,talker,[121]
+talking,talking,[121]
+talks,talks,[121]
+tall,tall,"[252, 250]"
+taller,taller,"[252, 250]"
+tallest,tallest,"[252, 250]"
+tang,tang,[140]
+tangy,tangy,[140]
+tanning,tanning,[356]
+tantrum*,tantrum,"[125, 127, 129]"
+tart,tart,[140]
+tast*,tast,"[146, 150, 140]"
+taught,taught,"[11, 13, 354]"
+tax,tax,"[354, 358]"
+taxa*,taxa,"[354, 358]"
+taxed,taxed,"[354, 358]"
+taxes,taxes,"[354, 358]"
+taxing,taxing,"[354, 358]"
+tea,tea,"[146, 150]"
+teach*,teach,[354]
+team*,team,"[121, 354, 355, 356]"
+tears,tears,"[125, 127, 130]"
+teas*,teas,"[121, 125, 127, 129]"
+techno,techno,[356]
+teeth*,teeth,"[146, 147]"
+tehe,tehe,"[125, 126]"
+telephon*,telephon,[121]
+television*,television,[356]
+tell,tell,[121]
+telling,telling,[121]
+tells,tells,[121]
+temper,temper,"[125, 127, 129]"
+tempers,tempers,"[125, 127, 129]"
+temple*,temple,[359]
+tempora*,tempora,"[131, 135, 253, 250]"
+ten,ten,"[1, 21]"
+tenant*,tenant,[357]
+tend,tend,"[11, 14]"
+tended,tended,"[11, 13]"
+tender*,tender,"[125, 126, 146, 148]"
+tendon,tendon,"[146, 147]"
+tendoni*,tendoni,"[146, 148]"
+tendons,tendons,"[146, 147]"
+tends,tends,"[11, 14]"
+tennis*,tennis,[356]
+tense*,tense,"[125, 127, 128]"
+tensing,tensing,"[125, 127, 128]"
+tension*,tension,"[125, 127, 128]"
+tentativ*,tentativ,"[131, 135]"
+tenth,tenth,"[1, 21]"
+tenure*,tenure,[354]
+tequila,tequila,[356]
+term,term,"[250, 253, 20]"
+terminat*,terminat,"[250, 253]"
+terribl*,terribl,"[125, 127]"
+terrific*,terrific,"[125, 126]"
+terrified,terrified,"[125, 127, 128]"
+terrifies,terrifies,"[125, 127, 128]"
+terrify,terrify,"[125, 127, 128, 129]"
+terrifying,terrifying,"[125, 127, 128]"
+territor*,territor,"[252, 250]"
+terror*,terror,"[125, 127, 128]"
+test,test,[354]
+testament*,testament,[359]
+tested,tested,[354]
+testing,testing,[354]
+testosterone*,testosterone,"[146, 148]"
+tests,tests,[354]
+textbook*,textbook,[354]
+than,than,"[1, 17]"
+thank,thank,"[11, 14, 125, 126]"
+thanked,thanked,"[11, 13, 125, 126]"
+thankf*,thankf,"[125, 126]"
+thanks,thanks,"[11, 14, 125, 126]"
+that,that,"[1, 2, 9]"
+thatd,thatd,"[1, 2, 9, 11, 12]"
+that'd,that'd,"[1, 2, 9, 11, 12]"
+thatll,thatll,"[1, 2, 9, 11, 12, 15]"
+that'll,that'll,"[1, 2, 9, 11, 12, 15]"
+thats,thats,"[1, 2, 9, 11, 12, 14]"
+that's,that's,"[1, 2, 9, 11, 12, 14]"
+the,the,"[1, 10]"
+theat*,theat,[356]
+thee,thee,"[1, 2, 3, 6, 121]"
+their*,their,"[1, 2, 3, 8, 121]"
+them,them,"[1, 2, 3, 8, 121]"
+themselves,themselves,"[1, 2, 3, 8, 121]"
+then,then,"[1, 18, 253, 250]"
+theolog*,theolog,[359]
+theor*,theor,"[131, 135]"
+therap*,therap,"[146, 148]"
+there,there,"[1, 16]"
+therefor*,therefor,"[131, 133]"
+theres,theres,"[11, 1, 12, 14, 16]"
+there's,there's,"[11, 1, 12, 14, 16]"
+thermometer*,thermometer,"[146, 148]"
+these,these,"[1, 2, 9]"
+theses,theses,[354]
+thesis,thesis,[354]
+they,they,"[1, 2, 3, 8, 121]"
+theyd,theyd,"[1, 2, 3, 8, 11, 12]"
+they'd,they'd,"[1, 2, 3, 8, 11, 12]"
+theyll,theyll,"[1, 2, 3, 8, 11, 12]"
+they'll,they'll,"[1, 2, 3, 8, 11, 12]"
+theyre,theyre,"[11, 1, 12, 14, 121]"
+they're,they're,"[11, 1, 12, 14, 121]"
+theyve,theyve,"[1, 2, 3, 8, 11, 12]"
+they've,they've,"[1, 2, 3, 8, 11, 12]"
+thick*,thick,"[252, 250, 140, 143]"
+thief,thief,"[125, 127]"
+thieve*,thieve,"[125, 127]"
+thigh*,thigh,"[146, 147]"
+thin,thin,"[252, 250, 140, 143]"
+thine,thine,"[1, 2, 3, 6, 121]"
+thing*,thing,"[1, 2, 9]"
+think,think,"[11, 14, 131, 132]"
+thinker*,thinker,"[131, 132]"
+thinking*,thinking,"[131, 132]"
+thinks,thinks,"[11, 14, 131, 132]"
+thinly,thinly,"[252, 250]"
+thinn*,thinn,"[252, 250, 140, 143]"
+third,third,"[1, 21]"
+thirst*,thirst,"[146, 147, 150]"
+thirt*,thirt,"[1, 21]"
+this,this,"[1, 2, 9]"
+tho,tho,"[1, 16, 18]"
+those,those,"[1, 2, 9]"
+thou,thou,"[1, 2, 3, 6, 121]"
+though,though,"[1, 16, 18]"
+thought,thought,"[11, 13, 131, 132]"
+thoughtful*,thoughtful,"[125, 126]"
+thoughts,thoughts,"[131, 132]"
+thousand*,thousand,"[1, 21]"
+thoust,thoust,"[1, 2, 3, 6, 121]"
+threat*,threat,"[125, 127, 129]"
+three,three,"[1, 21]"
+threw,threw,"[11, 13, 251, 250]"
+thrift*,thrift,[358]
+thrill*,thrill,"[125, 126]"
+throat*,throat,"[146, 147]"
+throb*,throb,"[146, 148]"
+through*,through,"[1, 17]"
+throw*,throw,"[251, 250]"
+thru,thru,"[1, 17]"
+thunder*,thunder,"[140, 142]"
+thursday*,thursday,"[253, 250]"
+thus,thus,"[131, 133]"
+thy,thy,"[1, 2, 3, 6, 121]"
+thyroid*,thyroid,"[146, 148]"
+ticked,ticked,"[125, 127, 129]"
+ticket*,ticket,[356]
+tidi*,tidi,"[131, 137]"
+tidy,tidy,"[131, 137]"
+tight*,tight,"[131, 137, 140, 143]"
+til,til,"[1, 17, 18, 253, 250]"
+till,till,"[1, 17, 18, 253, 250]"
+time*,time,"[253, 250]"
+timid*,timid,"[125, 127, 128]"
+timing,timing,"[253, 250]"
+tingl*,tingl,"[146, 148]"
+tinier,tinier,"[252, 250]"
+tiniest,tiniest,"[252, 250]"
+tiny,tiny,"[252, 250]"
+tire*,tire,"[146, 148]"
+tiring,tiring,"[146, 148]"
+tit,tit,"[146, 147, 149, 22]"
+tits,tits,"[146, 147, 149, 22]"
+titties,titties,"[146, 147, 149, 22]"
+titty,titty,"[146, 147, 149, 22]"
+tivo*,tivo,[356]
+to,to,"[1, 17]"
+toaster*,toaster,[357]
+today*,today,"[253, 250]"
+toe,toe,"[146, 147]"
+toefl,toefl,[354]
+toenail*,toenail,"[146, 147]"
+toes,toes,"[146, 147]"
+together,together,"[252, 250]"
+told,told,"[11, 13, 121]"
+toleran*,toleran,"[125, 126]"
+tomb*,tomb,[360]
+tomorrow*,tomorrow,"[253, 250]"
+ton,ton,"[1, 20]"
+tongue*,tongue,"[146, 147, 140]"
+tonight*,tonight,"[253, 250]"
+tons,tons,"[1, 20]"
+tonsils,tonsils,"[146, 147]"
+too,too,"[1, 16]"
+took,took,"[11, 13, 251, 250]"
+tooth*,tooth,"[146, 147]"
+top,top,"[252, 250, 355]"
+torah,torah,[359]
+tortur*,tortur,"[125, 127, 129]"
+total,total,"[131, 136, 1, 20]"
+totally,totally,"[1, 16, 131, 136]"
+touch*,touch,"[140, 143]"
+tough*,tough,"[125, 127]"
+toward*,toward,"[1, 17, 252, 250]"
+town,town,"[250, 252]"
+tox*,tox,"[146, 148]"
+toy*,toy,[356]
+trade*,trade,"[354, 358]"
+trading,trading,"[354, 358]"
+traged*,traged,"[125, 127, 130]"
+tragic*,tragic,"[125, 127, 130]"
+tranquil*,tranquil,"[125, 126]"
+transact*,transact,"[250, 251, 121]"
+transcript*,transcript,[354]
+transfer*,transfer,[354]
+transport*,transport,"[251, 250]"
+trauma*,trauma,"[125, 127]"
+travel*,travel,"[251, 250, 356]"
+treasur*,treasur,"[125, 126]"
+treat,treat,"[125, 126]"
+trembl*,trembl,"[125, 127, 128]"
+triang*,triang,"[140, 141]"
+triathl*,triathl,[356]
+tricep*,tricep,"[146, 147]"
+trick*,trick,"[125, 127, 129]"
+tried,tried,"[11, 13, 355]"
+tries,tries,"[11, 14, 355]"
+trigger*,trigger,"[131, 133]"
+trillion*,trillion,"[1, 21]"
+trip,trip,"[251, 250]"
+tripl*,tripl,"[1, 20]"
+tripped,tripped,"[251, 250]"
+tripping,tripping,"[251, 250]"
+trips,trips,"[251, 250]"
+trite,trite,"[125, 127]"
+triumph*,triumph,"[125, 126, 355]"
+trivi*,trivi,"[125, 127]"
+troubl*,troubl,"[125, 127]"
+TRUE,TRUE,"[131, 136, 125, 126]"
+trueness,trueness,"[125, 126]"
+truer,truer,"[125, 126]"
+truest,truest,"[125, 126, 131, 136]"
+truly,truly,"[1, 16, 125, 126, 131, 136]"
+trust*,trust,"[125, 126]"
+truth*,truth,"[125, 126, 131, 136]"
+try,try,"[11, 14, 355]"
+trying,trying,[355]
+tuesday*,tuesday,"[253, 250]"
+tuition,tuition,[358]
+tumo*,tumo,"[146, 148]"
+turmoil,turmoil,"[125, 127, 128]"
+turn,turn,"[11, 14]"
+turned,turned,"[11, 13]"
+turns,turns,"[11, 14]"
+tutor*,tutor,[354]
+tv*,tv,[356]
+twel*,twel,"[1, 21]"
+twent*,twent,"[1, 21]"
+twice,twice,"[1, 21]"
+twitch*,twitch,"[146, 148]"
+two,two,"[1, 21]"
+tylenol,tylenol,"[146, 148]"
+type*,type,[354]
+typically,typically,"[131, 135]"
+typing,typing,[354]
+ugh,ugh,"[125, 127]"
+ugl*,ugl,"[125, 127, 129]"
+uh,uh,[463]
+uhhu*,uhhu,[462]
+uhuh,uhuh,"[1, 19, 462]"
+ulcer*,ulcer,"[146, 148]"
+um,um,[463]
+umm*,umm,[463]
+unable,unable,[355]
+unaccept*,unaccept,"[131, 132]"
+unambigu*,unambigu,"[131, 136]"
+unattractive,unattractive,"[125, 127]"
+unaware*,unaware,"[131, 132]"
+unbeat*,unbeat,[355]
+uncertain*,uncertain,"[125, 127, 128, 131, 135]"
+uncle,uncle,"[121, 122]"
+unclear*,unclear,"[131, 135]"
+uncles,uncles,"[121, 122]"
+uncle's,uncle's,"[121, 122]"
+uncomfortabl*,uncomfortabl,"[125, 127, 128]"
+uncontrol*,uncontrol,"[125, 127, 128]"
+undecided*,undecided,"[131, 135]"
+undeniab*,undeniab,"[131, 136]"
+under,under,"[1, 17, 252, 250]"
+undergrad*,undergrad,[354]
+underneath,underneath,"[1, 17, 252, 250]"
+underpaid,underpaid,"[354, 358]"
+undersid*,undersid,"[252, 250]"
+understand,understand,"[11, 14, 131, 132]"
+understandab*,understandab,"[131, 132]"
+understanding*,understanding,"[131, 132]"
+understands,understands,"[11, 14, 131, 132]"
+understood,understood,"[11, 13, 131, 132]"
+undesire*,undesire,"[131, 134]"
+undetermin*,undetermin,"[131, 135]"
+undo,undo,"[131, 134]"
+undoubt*,undoubt,"[131, 136]"
+uneas*,uneas,"[125, 127, 128]"
+unemploy*,unemploy,[354]
+unfortunate*,unfortunate,"[125, 127]"
+unfriendly,unfriendly,"[125, 127]"
+ungrateful*,ungrateful,"[125, 127]"
+unhapp*,unhapp,"[125, 127, 130]"
+unhealth*,unhealth,"[146, 148]"
+unimportant,unimportant,"[125, 127, 130]"
+unimpress*,unimpress,"[125, 127]"
+unique,unique,"[1, 20]"
+universe*,universe,"[252, 250]"
+universit*,universit,[354]
+unkind,unkind,"[125, 127]"
+unknow*,unknow,"[131, 135]"
+unless,unless,"[1, 17, 18, 131, 139]"
+unlikel*,unlikel,"[131, 135]"
+unlov*,unlov,"[125, 127]"
+unluck*,unluck,"[131, 135]"
+unneccess*,unneccess,"[131, 134]"
+unneed*,unneed,"[131, 134]"
+unpleasant,unpleasant,"[125, 127]"
+unproduc*,unproduc,"[354, 355]"
+unprotected,unprotected,"[125, 127]"
+unquestion*,unquestion,"[131, 136]"
+unrelat*,unrelat,"[131, 132]"
+unresolv*,unresolv,"[131, 135]"
+unsavo*,unsavo,"[140, 125, 127]"
+unsettl*,unsettl,"[131, 135]"
+unsuccessful*,unsuccessful,"[125, 127, 130, 355]"
+unsure*,unsure,"[125, 127, 128, 131, 135]"
+until,until,"[1, 17, 18, 253, 250]"
+unto,unto,"[1, 17]"
+unwant*,unwant,"[131, 134]"
+unwelcom*,unwelcom,"[125, 127]"
+unwind*,unwind,[356]
+up,up,"[1, 17, 252, 250]"
+updat*,updat,"[250, 253]"
+upon,upon,"[1, 17, 252, 250]"
+upper,upper,"[252, 250]"
+upperclass*,upperclass,[354]
+uppermost,uppermost,"[252, 250]"
+upset*,upset,"[125, 127, 128]"
+upstairs,upstairs,"[252, 250]"
+uptight*,uptight,"[125, 127, 128, 131, 137]"
+ur,ur,[121]
+urin*,urin,"[146, 147]"
+urn*,urn,[360]
+us,us,"[1, 2, 3, 5, 121]"
+use,use,"[11, 14, 131, 133]"
+used,used,"[11, 13, 131, 133]"
+useful*,useful,"[125, 126]"
+useless*,useless,"[125, 127, 130]"
+uses,uses,"[11, 14, 131, 133]"
+using,using,"[11, 14, 131, 133]"
+usual,usual,"[253, 250]"
+usually,usually,"[1, 16, 131, 135, 253, 250]"
+uter*,uter,"[146, 147]"
+vacation*,vacation,[356]
+vacuum*,vacuum,[357]
+vagina*,vagina,"[146, 147, 149]"
+vague*,vague,"[131, 135]"
+vain,vain,"[125, 127]"
+valuabl*,valuabl,"[125, 126]"
+value,value,"[125, 126, 358]"
+valued,valued,"[125, 126]"
+values,values,"[125, 126]"
+valuing,valuing,"[125, 126]"
+vanity,vanity,"[125, 127]"
+variab*,variab,"[131, 135]"
+varies,varies,"[131, 135]"
+various,various,"[1, 20]"
+varsit*,varsit,[354]
+vary,vary,"[131, 135]"
+vast*,vast,"[252, 250]"
+vatican*,vatican,[359]
+vcr*,vcr,[356]
+vd,vd,"[146, 149]"
+veget*,veget,"[146, 150]"
+veggie*,veggie,"[146, 150]"
+veil*,veil,[359]
+vein*,vein,"[146, 147]"
+verg*,verg,"[252, 250]"
+version*,version,[20]
+versus,versus,"[131, 139]"
+vertical*,vertical,"[252, 250]"
+vertigo,vertigo,"[146, 148]"
+very,very,"[1, 16]"
+veto,veto,"[131, 137]"
+viagra,viagra,"[146, 148]"
+vicious*,vicious,"[125, 127, 129]"
+vicodin,vicodin,"[146, 148]"
+victim*,victim,"[125, 127, 129]"
+victor*,victor,[355]
+video*,video,[356]
+view,view,"[140, 141]"
+viewed,viewed,"[11, 13]"
+viewer*,viewer,"[140, 141]"
+viewing*,viewing,"[140, 141]"
+views,views,"[140, 141]"
+vigor*,vigor,"[125, 126]"
+vigour*,vigour,"[125, 126]"
+vile,vile,"[125, 127, 129]"
+villain*,villain,"[125, 127, 129]"
+violat*,violat,"[125, 127, 129]"
+violent*,violent,"[125, 127, 129]"
+virgin*,virgin,"[146, 149]"
+virtue*,virtue,"[125, 126]"
+virtuo*,virtuo,"[125, 126]"
+visa*,visa,[358]
+visit*,visit,"[121, 251, 250]"
+vita,vita,[354]
+vital*,vital,"[125, 126]"
+vitamin*,vitamin,"[146, 148]"
+vitas,vitas,[354]
+vivid*,vivid,"[140, 141]"
+vocation*,vocation,[354]
+vodka*,vodka,[356]
+voic*,voic,"[140, 142]"
+volleyb*,volleyb,[356]
+vomit*,vomit,"[146, 148]"
+vp*,vp,[354]
+vs,vs,"[131, 139]"
+vulnerab*,vulnerab,"[125, 127, 128]"
+vulture*,vulture,"[125, 127]"
+waft*,waft,[140]
+wage,wage,"[354, 358]"
+wager*,wager,[358]
+wages,wages,"[354, 358]"
+waist*,waist,"[146, 147, 150]"
+wait,wait,"[11, 14, 131, 137]"
+waited,waited,"[11, 13, 131, 137]"
+waiting,waiting,"[131, 137]"
+waits,waits,"[11, 14, 131, 137]"
+wake,wake,"[146, 147]"
+walk,walk,"[251, 250]"
+walked,walked,"[11, 13, 251, 250]"
+walking,walking,"[251, 250]"
+walks,walks,"[251, 250]"
+wall,wall,"[252, 250]"
+walling,walling,"[252, 250]"
+walls,walls,"[252, 250]"
+wanker*,wanker,[22]
+wanna,wanna,"[1, 17, 131, 134]"
+want,want,"[11, 14, 131, 134]"
+wanted,wanted,"[11, 13, 131, 134]"
+wanting,wanting,"[131, 134]"
+wants,wants,"[11, 14, 131, 134]"
+war,war,"[125, 127, 129, 360]"
+warehous*,warehous,[354]
+warfare*,warfare,"[125, 127, 129]"
+wariness,wariness,[137]
+warm*,warm,"[125, 126, 140, 143]"
+warred,warred,"[125, 127, 129]"
+warring,warring,"[125, 127, 129]"
+wars,wars,"[125, 127, 129]"
+wart,wart,"[146, 148]"
+warts,warts,"[146, 148]"
+wary,wary,[137]
+was,was,"[11, 1, 12, 13]"
+wash,wash,"[146, 148]"
+wasnt,wasnt,"[11, 1, 12, 13, 19]"
+wasn't,wasn't,"[11, 1, 12, 13, 19]"
+watch*,watch,"[140, 141]"
+water,water,"[146, 150]"
+way,way,[250]
+we,we,"[1, 2, 3, 5, 121, 131]"
+weak*,weak,"[125, 127, 146, 148]"
+wealth*,wealth,"[125, 126, 358]"
+weapon*,weapon,"[125, 127, 129]"
+wear,wear,"[146, 147]"
+weary,weary,"[146, 148]"
+we'd,we'd,"[1, 2, 3, 5, 11, 12]"
+wed,wed,[121]
+wedding*,wedding,[121]
+wednesday*,wednesday,"[253, 250]"
+weds,weds,[121]
+week,week,"[253, 250]"
+week'*,week',"[253, 250]"
+weekend*,weekend,"[253, 250, 356]"
+weekl*,weekl,"[253, 250]"
+weeks,weeks,"[253, 250]"
+weep*,weep,"[125, 127, 130]"
+weigh,weigh,"[146, 150]"
+weighed,weighed,"[146, 150]"
+weighing*,weighing,"[146, 150]"
+weighs,weighs,"[146, 150]"
+weight,weight,"[146, 150, 140, 143]"
+weighted,weighted,"[140, 143]"
+weighting,weighting,"[140, 143]"
+weightless*,weightless,"[140, 143]"
+weightlift*,weightlift,"[356, 140, 143]"
+weights,weights,"[356, 140, 143]"
+weird*,weird,"[125, 127]"
+welcom*,welcom,"[121, 125, 126]"
+welfare,welfare,[354]
+well,well,"[1, 16, 463, 125, 126]"
+we'll,we'll,"[1, 2, 3, 5, 11, 12]"
+went,went,"[11, 13, 251, 250]"
+wept,wept,"[125, 127, 130]"
+we're,we're,"[1, 2, 3, 5, 11, 14]"
+were,were,"[11, 1, 12, 13]"
+weren't,weren't,"[11, 1, 12, 13, 19]"
+west*,west,"[252, 250]"
+wet,wet,"[140, 143]"
+wetly,wetly,"[140, 143]"
+weve,weve,"[1, 2, 3, 5, 11, 12]"
+we've,we've,"[1, 2, 3, 5, 11, 12]"
+what,what,"[1, 2, 9]"
+whatever,whatever,"[1, 2, 9]"
+whats,whats,"[1, 2, 9, 11, 12, 14]"
+what's,what's,"[1, 2, 9, 11, 12, 14]"
+wheez*,wheez,"[146, 148]"
+when,when,"[1, 18, 253, 250, 16]"
+whenever,whenever,"[1, 16, 18, 253, 250]"
+where,where,"[1, 16, 252, 250]"
+whereas,whereas,"[1, 18]"
+wheres,wheres,"[11, 1, 12, 14, 252, 250]"
+where's,where's,"[11, 1, 12, 14, 252, 250]"
+wherever,wherever,"[252, 250]"
+whether,whether,"[1, 18, 131, 139]"
+which,which,"[1, 2, 9]"
+whichever,whichever,"[1, 2, 9]"
+whiff*,whiff,[140]
+while,while,"[1, 18, 253, 250]"
+whilst,whilst,"[253, 250]"
+whine*,whine,"[125, 127, 130]"
+whining,whining,"[125, 127, 130]"
+whiskey*,whiskey,"[146, 150, 356]"
+whisky*,whisky,"[146, 150, 356]"
+whisper*,whisper,"[140, 142]"
+white*,white,"[140, 141]"
+whitish*,whitish,"[140, 141]"
+who,who,"[1, 2, 9, 121]"
+whod,whod,"[1, 2, 9, 11, 12, 121]"
+who'd,who'd,"[1, 2, 9, 11, 12, 121]"
+whole,whole,"[1, 20]"
+wholl,wholl,"[1, 2, 9, 11, 12, 15]"
+who'll,who'll,"[1, 2, 9, 11, 12, 15]"
+wholly,wholly,"[131, 136]"
+whom,whom,"[1, 2, 9, 121]"
+whore*,whore,"[125, 127, 146, 149]"
+whos,whos,"[11, 14, 121]"
+who's,who's,"[11, 14, 121]"
+whose,whose,"[1, 2, 9, 121]"
+why,why,"[131, 133]"
+wicked*,wicked,"[125, 127, 129]"
+wide*,wide,"[252, 250]"
+width*,width,"[252, 250]"
+wife*,wife,"[121, 122]"
+will,will,"[11, 1, 12, 15]"
+willing,willing,"[125, 121]"
+wimp*,wimp,"[125, 127]"
+win,win,"[125, 126, 355]"
+window*,window,[357]
+wine,wine,"[146, 150, 356]"
+wines,wines,"[146, 150, 356]"
+winn*,winn,"[125, 126, 355]"
+wins,wins,"[125, 126, 355]"
+winter*,winter,"[253, 250]"
+wisdom,wisdom,"[125, 126]"
+wise*,wise,"[125, 126]"
+wish,wish,"[11, 14, 131, 134]"
+wished,wished,"[11, 13, 131, 134]"
+wishes,wishes,"[11, 14, 131, 134]"
+wishing,wishing,"[131, 134]"
+witch,witch,"[125, 127]"
+with,with,"[1, 17, 131, 138]"
+withdrawal,withdrawal,"[146, 148]"
+withheld,withheld,"[131, 137]"
+withhold*,withhold,"[131, 137]"
+within,within,"[1, 17, 252, 250]"
+without,without,"[1, 17, 19, 131, 139]"
+wive*,wive,"[121, 122]"
+woe*,woe,"[125, 127, 130]"
+woke,woke,"[11, 13]"
+woken,woken,"[11, 13]"
+woman,woman,"[121, 124]"
+womanhood,womanhood,[121]
+womanly,womanly,[121]
+woman's,woman's,"[121, 124]"
+womb*,womb,"[146, 147, 149]"
+women*,women,"[121, 124]"
+won,won,"[11, 13, 125, 126, 355]"
+wonder,wonder,"[11, 14, 131, 132, 135]"
+wondered,wondered,"[11, 13, 131, 132, 135]"
+wonderf*,wonderf,"[125, 126]"
+wondering,wondering,"[131, 132, 135]"
+wonders,wonders,"[131, 132, 135]"
+wont,wont,"[11, 1, 12, 15, 19]"
+won't,won't,"[11, 1, 12, 15, 19]"
+word*,word,"[131, 121]"
+wore,wore,"[11, 13]"
+work,work,"[354, 355]"
+workabl*,workabl,"[354, 355]"
+worked,worked,"[11, 13, 354, 355]"
+worker*,worker,"[354, 355]"
+working*,working,"[354, 355]"
+workout*,workout,[356]
+works,works,"[354, 355]"
+world,world,"[250, 252]"
+worn,worn,"[11, 13]"
+worr*,worr,"[125, 127, 128]"
+worse*,worse,"[125, 127]"
+worship*,worship,"[125, 126, 359]"
+worst,worst,"[125, 127, 1, 20]"
+worth,worth,[358]
+worthless*,worthless,"[125, 127, 130]"
+worthwhile,worthwhile,"[125, 126]"
+would,would,"[11, 1, 12, 15, 131, 134]"
+wouldnt,wouldnt,"[11, 1, 12, 15, 19, 131]"
+wouldn't,wouldn't,"[11, 1, 12, 15, 19, 131]"
+wouldve,wouldve,"[11, 1, 12, 13, 15, 131]"
+would've,would've,"[11, 1, 12, 13, 15, 131]"
+wound*,wound,"[146, 148]"
+wow*,wow,"[125, 126]"
+wrist*,wrist,"[146, 147]"
+write,write,"[121, 131]"
+writing,writing,"[121, 131]"
+written,written,"[11, 13]"
+wrong*,wrong,"[125, 127]"
+wrote,wrote,"[11, 13]"
+wrote,wrote,"[121, 131, 11, 13]"
+xanax,xanax,"[146, 148]"
+xbox*,xbox,[356]
+xerox*,xerox,[354]
+xray*,xray,"[146, 148]"
+ya,ya,"[1, 2, 3, 6, 121]"
+yah,yah,[462]
+yakn*,yakn,[464]
+yall,yall,"[1, 2, 3, 6, 121]"
+y'all,y'all,"[1, 2, 3, 6, 121]"
+yard,yard,"[356, 357]"
+yawn*,yawn,"[146, 148]"
+yay,yay,"[125, 126, 462]"
+yays,yays,"[125, 126]"
+ye,ye,"[1, 2, 3, 6, 121]"
+yea,yea,[462]
+yeah,yeah,[462]
+year,year,"[253, 250]"
+yearly,yearly,"[253, 250]"
+yearn*,yearn,"[125, 127, 130, 131, 134]"
+years,years,"[253, 250]"
+yell,yell,"[140, 142]"
+yelled,yelled,"[140, 142]"
+yelling,yelling,"[140, 142]"
+yellow*,yellow,"[140, 141]"
+yells,yells,"[140, 142]"
+yen,yen,[358]
+yep*,yep,[462]
+yes,yes,[462]
+yesterday*,yesterday,"[253, 250]"
+yet,yet,"[1, 16, 253, 250]"
+yiddish,yiddish,[359]
+yield*,yield,"[131, 137]"
+ykn*,ykn,[464]
+yoga,yoga,[356]
+you,you,"[1, 2, 3, 6, 121]"
+youd,youd,"[1, 2, 3, 6, 11, 12]"
+you'd,you'd,"[1, 2, 3, 6, 11, 12]"
+youknow*,youknow,[464]
+youll,youll,"[1, 2, 3, 6, 11, 12]"
+you'll,you'll,"[1, 2, 3, 6, 11, 12]"
+young*,young,"[253, 250]"
+your,your,"[1, 2, 3, 6, 121]"
+youre,youre,"[1, 2, 3, 6, 11, 12]"
+you're,you're,"[1, 2, 3, 6, 11, 12]"
+yours,yours,"[1, 2, 3, 6, 121]"
+youth*,youth,"[253, 250]"
+youve,youve,"[1, 2, 3, 6, 11, 12]"
+you've,you've,"[1, 2, 3, 6, 11, 12]"
+yuan,yuan,[358]
+yum*,yum,[140]
+yup,yup,[462]
+zen,zen,[359]
+zero,zero,"[1, 21]"
+zillion*,zillion,"[1, 21]"
+zion*,zion,[359]
+zit,zit,"[146, 148]"
+zits,zits,"[146, 148]"
+zoloft,zoloft,"[146, 148]"
