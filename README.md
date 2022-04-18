@@ -13,6 +13,6 @@
 
 - "runs" is for the saved log and "weights" is our trained weights.
 
-_ "BertDataset.py" is for customDataset class and "logger.py" for tensorboard things.
+- "BertDataset.py" is for customDataset class and "logger.py" for tensorboard things.
 
 - "PreprocessingCombined.ipynb" is for the data preprocessing(http removal, non-english word removal, etc)
